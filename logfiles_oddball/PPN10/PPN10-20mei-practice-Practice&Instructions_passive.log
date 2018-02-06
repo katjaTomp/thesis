@@ -1,0 +1,93 @@
+Scenario - oddball3
+Logfile written - 05/20/2016 12:16:11
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN10-20mei-practice	1	Sound	10	506480	0	2			0		other	0
+PPN10-20mei-practice	2	Sound	6	570880	0	2			0		other	0
+PPN10-20mei-practice	3	Sound	10	725310	0	2			0		other	0
+PPN10-20mei-practice	5	Sound	6	748643	0	2			0		other	0
+PPN10-20mei-practice	7	Sound	10	772042	0	2			0		other	0
+PPN10-20mei-practice	9	Sound	10	795441	0	2			0		other	0
+PPN10-20mei-practice	11	Sound	10	818841	0	2			0		other	0
+PPN10-20mei-practice	13	Sound	10	842240	0	2			0		other	0
+PPN10-20mei-practice	15	Sound	10	865639	0	2			0		other	0
+PPN10-20mei-practice	17	Sound	10	889038	0	2			0		other	0
+PPN10-20mei-practice	19	Sound	10	912438	0	2			0		other	0
+PPN10-20mei-practice	21	Sound	10	935838	0	2			0		other	0
+PPN10-20mei-practice	23	Sound	10	959238	0	2			0		other	0
+PPN10-20mei-practice	25	Sound	10	982637	0	2			0		other	0
+PPN10-20mei-practice	27	Sound	10	1006036	0	2			0		other	0
+PPN10-20mei-practice	29	Sound	28	1029436	0	2			0		other	0
+PPN10-20mei-practice	31	Sound	10	1053435	0	2			0		other	0
+PPN10-20mei-practice	33	Sound	10	1076834	0	2			0		other	0
+PPN10-20mei-practice	35	Sound	10	1100234	0	2			0		other	0
+PPN10-20mei-practice	37	Sound	10	1123633	0	2			0		other	0
+PPN10-20mei-practice	39	Sound	10	1147033	0	2			0		other	0
+PPN10-20mei-practice	41	Sound	10	1170433	0	2			0		other	0
+PPN10-20mei-practice	43	Sound	10	1193831	0	2			0		other	0
+PPN10-20mei-practice	45	Sound	6	1217231	0	2			0		other	0
+PPN10-20mei-practice	47	Sound	10	1240630	0	2			0		other	0
+PPN10-20mei-practice	49	Sound	10	1264030	0	2			0		other	0
+PPN10-20mei-practice	51	Sound	10	1287429	0	2			0		other	0
+PPN10-20mei-practice	53	Sound	10	1310829	0	2			0		other	0
+PPN10-20mei-practice	55	Sound	10	1334229	0	2			0		other	0
+PPN10-20mei-practice	57	Sound	10	1357628	0	2			0		other	0
+PPN10-20mei-practice	59	Sound	6	1381027	0	2			0		other	0
+PPN10-20mei-practice	61	Sound	10	1404427	0	2			0		other	0
+PPN10-20mei-practice	63	Sound	10	1427826	0	2			0		other	0
+PPN10-20mei-practice	65	Sound	10	1451226	0	2			0		other	0
+PPN10-20mei-practice	67	Sound	10	1474624	0	2			0		other	0
+PPN10-20mei-practice	69	Sound	10	1498025	0	2			0		other	0
+PPN10-20mei-practice	71	Sound	18	1521424	0	2			0		other	0
+PPN10-20mei-practice	73	Sound	10	1544723	0	2			0		other	0
+PPN10-20mei-practice	75	Sound	10	1568123	0	2			0		other	0
+PPN10-20mei-practice	77	Sound	10	1591522	0	2			0		other	0
+PPN10-20mei-practice	79	Sound	6	1614921	0	2			0		other	0
+PPN10-20mei-practice	81	Sound	10	1638321	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				506480	2			0
+Sound	6	other				570880	2			0
+Sound	10	other				725310	2			0
+Sound	6	other				748643	2			0
+Sound	10	other				772042	2			0
+Sound	10	other				795441	2			0
+Sound	10	other				818841	2			0
+Sound	10	other				842240	2			0
+Sound	10	other				865639	2			0
+Sound	10	other				889038	2			0
+Sound	10	other				912438	2			0
+Sound	10	other				935838	2			0
+Sound	10	other				959238	2			0
+Sound	10	other				982637	2			0
+Sound	10	other				1006036	2			0
+Sound	28	other				1029436	2			0
+Sound	10	other				1053435	2			0
+Sound	10	other				1076834	2			0
+Sound	10	other				1100234	2			0
+Sound	10	other				1123633	2			0
+Sound	10	other				1147033	2			0
+Sound	10	other				1170433	2			0
+Sound	10	other				1193831	2			0
+Sound	6	other				1217231	2			0
+Sound	10	other				1240630	2			0
+Sound	10	other				1264030	2			0
+Sound	10	other				1287429	2			0
+Sound	10	other				1310829	2			0
+Sound	10	other				1334229	2			0
+Sound	10	other				1357628	2			0
+Sound	6	other				1381027	2			0
+Sound	10	other				1404427	2			0
+Sound	10	other				1427826	2			0
+Sound	10	other				1451226	2			0
+Sound	10	other				1474624	2			0
+Sound	10	other				1498025	2			0
+Sound	18	other				1521424	2			0
+Sound	10	other				1544723	2			0
+Sound	10	other				1568123	2			0
+Sound	10	other				1591522	2			0
+Sound	6	other				1614921	2			0
+Sound	10	other				1638321	2			0

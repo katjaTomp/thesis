@@ -1,0 +1,280 @@
+Scenario - oddball3
+Logfile written - 05/24/2016 17:16:38
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN13-D1	1	Sound	24	196283	0	2			0		other	0
+PPN13-D1	3	Sound	24	219591	0	2			0		other	0
+PPN13-D1	5	Sound	26	242991	0	2			0		other	0
+PPN13-D1	6	Response	1	253926	7536	1
+PPN13-D1	7	Sound	24	266405	0	2			0		other	0
+PPN13-D1	9	Sound	28	289790	0	2			0		other	0
+PPN13-D1	11	Sound	24	313490	0	2			0		other	0
+PPN13-D1	13	Sound	24	336889	0	2			0		other	0
+PPN13-D1	15	Sound	24	360288	0	2			0		other	0
+PPN13-D1	17	Sound	24	383688	0	2			0		other	0
+PPN13-D1	19	Sound	24	407088	0	2			0		other	0
+PPN13-D1	21	Sound	24	430487	0	2			0		other	0
+PPN13-D1	23	Sound	28	453887	0	2			0		other	0
+PPN13-D1	25	Sound	24	475587	0	2			0		other	0
+PPN13-D1	27	Sound	28	498986	0	2			0		other	0
+PPN13-D1	29	Sound	24	523086	0	2			0		other	0
+PPN13-D1	31	Sound	24	546485	0	2			0		other	0
+PPN13-D1	33	Sound	24	569884	0	2			0		other	0
+PPN13-D1	35	Sound	26	593285	0	2			0		other	0
+PPN13-D1	36	Response	1	599785	3101	1
+PPN13-D1	37	Sound	24	616704	0	2			0		other	0
+PPN13-D1	39	Sound	24	640084	0	2			0		other	0
+PPN13-D1	41	Sound	24	663484	0	2			0		other	0
+PPN13-D1	43	Sound	28	686883	0	2			0		other	0
+PPN13-D1	45	Sound	24	709982	0	2			0		other	0
+PPN13-D1	47	Sound	24	733381	0	2			0		other	0
+PPN13-D1	49	Sound	24	756781	0	2			0		other	0
+PPN13-D1	51	Sound	24	780182	0	2			0		other	0
+PPN13-D1	53	Sound	24	803581	0	2			0		other	0
+PPN13-D1	55	Sound	24	826981	0	2			0		other	0
+PPN13-D1	57	Sound	24	850379	0	2			0		other	0
+PPN13-D1	59	Sound	26	873779	0	2			0		other	0
+PPN13-D1	60	Response	1	880534	3355	1
+PPN13-D1	61	Sound	24	897197	0	2			0		other	0
+PPN13-D1	63	Sound	24	920578	0	2			0		other	0
+PPN13-D1	65	Sound	24	943978	0	2			0		other	0
+PPN13-D1	67	Sound	24	967378	0	2			0		other	0
+PPN13-D1	69	Sound	24	990777	0	2			0		other	0
+PPN13-D1	71	Sound	26	1014177	0	2			0		other	0
+PPN13-D1	72	Response	1	1020660	3084	1
+PPN13-D1	73	Sound	24	1037594	0	2			0		other	0
+PPN13-D1	75	Sound	28	1060975	0	2			0		other	0
+PPN13-D1	77	Sound	24	1083475	0	2			0		other	0
+PPN13-D1	79	Sound	24	1106875	0	2			0		other	0
+PPN13-D1	81	Sound	24	1130275	0	2			0		other	0
+PPN13-D1	83	Sound	28	1153674	0	2			0		other	0
+PPN13-D1	85	Sound	24	1177774	0	2			0		other	0
+PPN13-D1	87	Sound	24	1201173	0	2			0		other	0
+PPN13-D1	89	Sound	24	1224572	0	2			0		other	0
+PPN13-D1	91	Sound	28	1247972	0	2			0		other	0
+PPN13-D1	93	Sound	24	1271872	0	2			0		other	0
+PPN13-D1	95	Sound	24	1295271	0	2			0		other	0
+PPN13-D1	97	Sound	24	1318671	0	2			0		other	0
+PPN13-D1	99	Sound	26	1342071	0	2			0		other	0
+PPN13-D1	100	Response	1	1347682	2211	1
+PPN13-D1	101	Sound	24	1365489	0	1			0		other	0
+PPN13-D1	103	Sound	26	1388869	0	2			0		other	0
+PPN13-D1	104	Response	1	1396276	4006	1
+PPN13-D1	105	Sound	24	1412288	0	2			0		other	0
+PPN13-D1	107	Sound	24	1435669	0	2			0		other	0
+PPN13-D1	109	Sound	24	1459068	0	2			0		other	0
+PPN13-D1	111	Sound	24	1482468	0	2			0		other	0
+PPN13-D1	113	Sound	24	1505868	0	2			0		other	0
+PPN13-D1	115	Sound	24	1529268	0	2			0		other	0
+PPN13-D1	117	Sound	24	1552667	0	2			0		other	0
+PPN13-D1	119	Sound	24	1576067	0	2			0		other	0
+PPN13-D1	121	Sound	24	1599466	0	2			0		other	0
+PPN13-D1	123	Sound	24	1622865	0	2			0		other	0
+PPN13-D1	125	Sound	24	1646266	0	2			0		other	0
+PPN13-D1	127	Sound	26	1669664	0	2			0		other	0
+PPN13-D1	128	Response	1	1676964	4000	1
+PPN13-D1	129	Sound	24	1692982	0	2			0		other	0
+PPN13-D1	131	Sound	28	1716364	0	2			0		other	0
+PPN13-D1	133	Sound	24	1740064	0	2			0		other	0
+PPN13-D1	135	Sound	24	1763463	0	2			0		other	0
+PPN13-D1	137	Sound	24	1786862	0	2			0		other	0
+PPN13-D1	139	Sound	26	1810262	0	2			0		other	0
+PPN13-D1	140	Response	1	1815793	2131	2
+PPN13-D1	141	Sound	24	1833681	0	2			0		other	0
+PPN13-D1	143	Sound	24	1857062	0	2			0		other	0
+PPN13-D1	145	Sound	24	1880462	0	2			0		other	0
+PPN13-D1	147	Sound	24	1903861	0	2			0		other	0
+PPN13-D1	149	Sound	24	1927260	0	2			0		other	0
+PPN13-D1	151	Sound	28	1950659	0	2			0		other	0
+PPN13-D1	153	Sound	24	1973659	0	2			0		other	0
+PPN13-D1	155	Sound	26	1997059	0	2			0		other	0
+PPN13-D1	156	Response	1	2002771	2313	1
+PPN13-D1	157	Sound	24	2020476	0	2			0		other	0
+PPN13-D1	159	Sound	24	2043859	0	2			0		other	0
+PPN13-D1	161	Sound	24	2067258	0	2			0		other	0
+PPN13-D1	163	Sound	24	2090657	0	2			0		other	0
+PPN13-D1	165	Sound	24	2114057	0	2			0		other	0
+PPN13-D1	167	Sound	24	2137456	0	2			0		other	0
+PPN13-D1	169	Sound	24	2160856	0	2			0		other	0
+PPN13-D1	171	Sound	24	2184256	0	2			0		other	0
+PPN13-D1	173	Sound	24	2207656	0	2			0		other	0
+PPN13-D1	175	Sound	24	2231055	0	2			0		other	0
+PPN13-D1	177	Sound	24	2254454	0	2			0		other	0
+PPN13-D1	179	Sound	26	2277854	0	2			0		other	0
+PPN13-D1	180	Response	1	2282802	1549	1
+PPN13-D1	181	Sound	24	2301271	0	2			0		other	0
+PPN13-D1	183	Sound	26	2324653	0	2			0		other	0
+PPN13-D1	184	Response	1	2330877	2824	1
+PPN13-D1	185	Sound	24	2348071	0	2			0		other	0
+PPN13-D1	187	Sound	28	2371452	0	2			0		other	0
+PPN13-D1	189	Sound	24	2394551	0	2			0		other	0
+PPN13-D1	191	Sound	24	2417952	0	2			0		other	0
+PPN13-D1	193	Sound	24	2441350	0	2			0		other	0
+PPN13-D1	195	Sound	24	2464749	0	2			0		other	0
+PPN13-D1	197	Sound	24	2488149	0	2			0		other	0
+PPN13-D1	199	Sound	28	2511550	0	2			0		other	0
+PPN13-D1	201	Sound	24	2535550	0	2			0		other	0
+PPN13-D1	203	Sound	24	2558949	0	2			0		other	0
+PPN13-D1	205	Sound	24	2582349	0	2			0		other	0
+PPN13-D1	207	Sound	24	2605748	0	2			0		other	0
+PPN13-D1	209	Sound	24	2629147	0	2			0		other	0
+PPN13-D1	211	Sound	24	2652546	0	2			0		other	0
+PPN13-D1	213	Sound	24	2675946	0	2			0		other	0
+PPN13-D1	215	Sound	24	2699346	0	2			0		other	0
+PPN13-D1	217	Sound	24	2722746	0	2			0		other	0
+PPN13-D1	219	Sound	24	2746146	0	2			0		other	0
+PPN13-D1	221	Sound	24	2769545	0	2			0		other	0
+PPN13-D1	223	Sound	28	2792944	0	2			0		other	0
+PPN13-D1	225	Sound	24	2816443	0	2			0		other	0
+PPN13-D1	227	Sound	24	2839843	0	2			0		other	0
+PPN13-D1	229	Sound	24	2863243	0	2			0		other	0
+PPN13-D1	231	Sound	26	2886643	0	2			0		other	0
+PPN13-D1	232	Response	1	2893532	3490	1
+PPN13-D1	233	Sound	24	2910059	0	2			0		other	0
+PPN13-D1	235	Sound	28	2933442	0	2			0		other	0
+PPN13-D1	237	Sound	24	2957441	0	2			0		other	0
+PPN13-D1	239	Sound	26	2980841	0	2			0		other	0
+PPN13-D1	240	Response	1	2987604	3364	1
+PPN13-D1	241	Sound	24	3004258	0	2			0		other	0
+PPN13-D1	243	Sound	24	3027640	0	2			0		other	0
+PPN13-D1	245	Sound	24	3051040	0	2			0		other	0
+PPN13-D1	247	Sound	24	3074440	0	2			0		other	0
+PPN13-D1	249	Sound	24	3097839	0	2			0		other	0
+PPN13-D1	251	Sound	24	3121239	0	2			0		other	0
+PPN13-D1	253	Sound	24	3144638	0	2			0		other	0
+PPN13-D1	255	Sound	24	3168038	0	2			0		other	0
+PPN13-D1	257	Sound	24	3191437	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				196283	2			0
+Sound	24	other				219591	2			0
+Sound	26	other				242991	2			0
+Sound	24	other				266405	2			0
+Sound	28	other				289790	2			0
+Sound	24	other				313490	2			0
+Sound	24	other				336889	2			0
+Sound	24	other				360288	2			0
+Sound	24	other				383688	2			0
+Sound	24	other				407088	2			0
+Sound	24	other				430487	2			0
+Sound	28	other				453887	2			0
+Sound	24	other				475587	2			0
+Sound	28	other				498986	2			0
+Sound	24	other				523086	2			0
+Sound	24	other				546485	2			0
+Sound	24	other				569884	2			0
+Sound	26	other				593285	2			0
+Sound	24	other				616704	2			0
+Sound	24	other				640084	2			0
+Sound	24	other				663484	2			0
+Sound	28	other				686883	2			0
+Sound	24	other				709982	2			0
+Sound	24	other				733381	2			0
+Sound	24	other				756781	2			0
+Sound	24	other				780182	2			0
+Sound	24	other				803581	2			0
+Sound	24	other				826981	2			0
+Sound	24	other				850379	2			0
+Sound	26	other				873779	2			0
+Sound	24	other				897197	2			0
+Sound	24	other				920578	2			0
+Sound	24	other				943978	2			0
+Sound	24	other				967378	2			0
+Sound	24	other				990777	2			0
+Sound	26	other				1014177	2			0
+Sound	24	other				1037594	2			0
+Sound	28	other				1060975	2			0
+Sound	24	other				1083475	2			0
+Sound	24	other				1106875	2			0
+Sound	24	other				1130275	2			0
+Sound	28	other				1153674	2			0
+Sound	24	other				1177774	2			0
+Sound	24	other				1201173	2			0
+Sound	24	other				1224572	2			0
+Sound	28	other				1247972	2			0
+Sound	24	other				1271872	2			0
+Sound	24	other				1295271	2			0
+Sound	24	other				1318671	2			0
+Sound	26	other				1342071	2			0
+Sound	24	other				1365489	1			0
+Sound	26	other				1388869	2			0
+Sound	24	other				1412288	2			0
+Sound	24	other				1435669	2			0
+Sound	24	other				1459068	2			0
+Sound	24	other				1482468	2			0
+Sound	24	other				1505868	2			0
+Sound	24	other				1529268	2			0
+Sound	24	other				1552667	2			0
+Sound	24	other				1576067	2			0
+Sound	24	other				1599466	2			0
+Sound	24	other				1622865	2			0
+Sound	24	other				1646266	2			0
+Sound	26	other				1669664	2			0
+Sound	24	other				1692982	2			0
+Sound	28	other				1716364	2			0
+Sound	24	other				1740064	2			0
+Sound	24	other				1763463	2			0
+Sound	24	other				1786862	2			0
+Sound	26	other				1810262	2			0
+Sound	24	other				1833681	2			0
+Sound	24	other				1857062	2			0
+Sound	24	other				1880462	2			0
+Sound	24	other				1903861	2			0
+Sound	24	other				1927260	2			0
+Sound	28	other				1950659	2			0
+Sound	24	other				1973659	2			0
+Sound	26	other				1997059	2			0
+Sound	24	other				2020476	2			0
+Sound	24	other				2043859	2			0
+Sound	24	other				2067258	2			0
+Sound	24	other				2090657	2			0
+Sound	24	other				2114057	2			0
+Sound	24	other				2137456	2			0
+Sound	24	other				2160856	2			0
+Sound	24	other				2184256	2			0
+Sound	24	other				2207656	2			0
+Sound	24	other				2231055	2			0
+Sound	24	other				2254454	2			0
+Sound	26	other				2277854	2			0
+Sound	24	other				2301271	2			0
+Sound	26	other				2324653	2			0
+Sound	24	other				2348071	2			0
+Sound	28	other				2371452	2			0
+Sound	24	other				2394551	2			0
+Sound	24	other				2417952	2			0
+Sound	24	other				2441350	2			0
+Sound	24	other				2464749	2			0
+Sound	24	other				2488149	2			0
+Sound	28	other				2511550	2			0
+Sound	24	other				2535550	2			0
+Sound	24	other				2558949	2			0
+Sound	24	other				2582349	2			0
+Sound	24	other				2605748	2			0
+Sound	24	other				2629147	2			0
+Sound	24	other				2652546	2			0
+Sound	24	other				2675946	2			0
+Sound	24	other				2699346	2			0
+Sound	24	other				2722746	2			0
+Sound	24	other				2746146	2			0
+Sound	24	other				2769545	2			0
+Sound	28	other				2792944	2			0
+Sound	24	other				2816443	2			0
+Sound	24	other				2839843	2			0
+Sound	24	other				2863243	2			0
+Sound	26	other				2886643	2			0
+Sound	24	other				2910059	2			0
+Sound	28	other				2933442	2			0
+Sound	24	other				2957441	2			0
+Sound	26	other				2980841	2			0
+Sound	24	other				3004258	2			0
+Sound	24	other				3027640	2			0
+Sound	24	other				3051040	2			0
+Sound	24	other				3074440	2			0
+Sound	24	other				3097839	2			0
+Sound	24	other				3121239	2			0
+Sound	24	other				3144638	2			0
+Sound	24	other				3168038	2			0
+Sound	24	other				3191437	2			0

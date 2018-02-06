@@ -1,0 +1,98 @@
+Scenario - oddball3
+Logfile written - 05/24/2016 16:26:01
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN13-24mei-practice	1	Sound	10	505460	0	2			0		other	0
+PPN13-24mei-practice	2	Sound	6	569620	0	2			0		other	0
+PPN13-24mei-practice	2	Response	1	579351	9731	1
+PPN13-24mei-practice	3	Sound	10	723839	0	2			0		other	0
+PPN13-24mei-practice	4	Response	1	727866	619	1
+PPN13-24mei-practice	5	Sound	6	747256	0	2			0		other	0
+PPN13-24mei-practice	7	Sound	10	770637	0	2			0		other	0
+PPN13-24mei-practice	9	Sound	10	794036	0	2			0		other	0
+PPN13-24mei-practice	11	Sound	10	817436	0	2			0		other	0
+PPN13-24mei-practice	13	Sound	10	840835	0	2			0		other	0
+PPN13-24mei-practice	15	Sound	10	864236	0	2			0		other	0
+PPN13-24mei-practice	17	Sound	10	887635	0	2			0		other	0
+PPN13-24mei-practice	19	Sound	10	911034	0	2			0		other	0
+PPN13-24mei-practice	21	Sound	10	934435	0	2			0		other	0
+PPN13-24mei-practice	23	Sound	10	957834	0	2			0		other	0
+PPN13-24mei-practice	25	Sound	10	981233	0	2			0		other	0
+PPN13-24mei-practice	27	Sound	10	1004632	0	2			0		other	0
+PPN13-24mei-practice	29	Sound	28	1028032	0	2			0		other	0
+PPN13-24mei-practice	31	Sound	10	1052032	0	2			0		other	0
+PPN13-24mei-practice	33	Sound	10	1075431	0	2			0		other	0
+PPN13-24mei-practice	35	Sound	10	1098831	0	2			0		other	0
+PPN13-24mei-practice	37	Sound	10	1122231	0	2			0		other	0
+PPN13-24mei-practice	39	Sound	10	1145630	0	2			0		other	0
+PPN13-24mei-practice	41	Sound	10	1169030	0	2			0		other	0
+PPN13-24mei-practice	43	Sound	10	1192429	0	2			0		other	0
+PPN13-24mei-practice	45	Sound	6	1215829	0	2			0		other	0
+PPN13-24mei-practice	46	Response	1	1221772	2544	1
+PPN13-24mei-practice	47	Sound	10	1239237	0	1			0		other	0
+PPN13-24mei-practice	49	Sound	10	1262627	0	2			0		other	0
+PPN13-24mei-practice	51	Sound	10	1286028	0	2			0		other	0
+PPN13-24mei-practice	53	Sound	10	1309427	0	2			0		other	0
+PPN13-24mei-practice	55	Sound	10	1332826	0	2			0		other	0
+PPN13-24mei-practice	57	Sound	10	1356226	0	2			0		other	0
+PPN13-24mei-practice	59	Sound	6	1379625	0	2			0		other	0
+PPN13-24mei-practice	60	Response	1	1385447	2421	1
+PPN13-24mei-practice	61	Sound	10	1403035	0	1			0		other	0
+PPN13-24mei-practice	63	Sound	10	1426424	0	2			0		other	0
+PPN13-24mei-practice	65	Sound	10	1449824	0	2			0		other	0
+PPN13-24mei-practice	67	Sound	10	1473224	0	2			0		other	0
+PPN13-24mei-practice	69	Sound	10	1496623	0	2			0		other	0
+PPN13-24mei-practice	71	Sound	18	1520022	0	2			0		other	0
+PPN13-24mei-practice	73	Sound	10	1543322	0	2			0		other	0
+PPN13-24mei-practice	75	Sound	10	1566722	0	2			0		other	0
+PPN13-24mei-practice	77	Sound	10	1590122	0	2			0		other	0
+PPN13-24mei-practice	79	Sound	6	1613521	0	2			0		other	0
+PPN13-24mei-practice	80	Response	1	1619205	2284	1
+PPN13-24mei-practice	81	Sound	10	1636930	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				505460	2			0
+Sound	6	other				569620	2			0
+Sound	10	other				723839	2			0
+Sound	6	other				747256	2			0
+Sound	10	other				770637	2			0
+Sound	10	other				794036	2			0
+Sound	10	other				817436	2			0
+Sound	10	other				840835	2			0
+Sound	10	other				864236	2			0
+Sound	10	other				887635	2			0
+Sound	10	other				911034	2			0
+Sound	10	other				934435	2			0
+Sound	10	other				957834	2			0
+Sound	10	other				981233	2			0
+Sound	10	other				1004632	2			0
+Sound	28	other				1028032	2			0
+Sound	10	other				1052032	2			0
+Sound	10	other				1075431	2			0
+Sound	10	other				1098831	2			0
+Sound	10	other				1122231	2			0
+Sound	10	other				1145630	2			0
+Sound	10	other				1169030	2			0
+Sound	10	other				1192429	2			0
+Sound	6	other				1215829	2			0
+Sound	10	other				1239237	1			0
+Sound	10	other				1262627	2			0
+Sound	10	other				1286028	2			0
+Sound	10	other				1309427	2			0
+Sound	10	other				1332826	2			0
+Sound	10	other				1356226	2			0
+Sound	6	other				1379625	2			0
+Sound	10	other				1403035	1			0
+Sound	10	other				1426424	2			0
+Sound	10	other				1449824	2			0
+Sound	10	other				1473224	2			0
+Sound	10	other				1496623	2			0
+Sound	18	other				1520022	2			0
+Sound	10	other				1543322	2			0
+Sound	10	other				1566722	2			0
+Sound	10	other				1590122	2			0
+Sound	6	other				1613521	2			0
+Sound	10	other				1636930	2			0

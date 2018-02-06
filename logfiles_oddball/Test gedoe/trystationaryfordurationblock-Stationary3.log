@@ -1,0 +1,28 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 16:12:46
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+trystationaryfordurationblock	1	Sound	8	197710	0	2			0		other	0
+trystationaryfordurationblock	3	Sound	4	220749	0	2			0		other	0
+trystationaryfordurationblock	5	Sound	4	244148	0	2			0		other	0
+trystationaryfordurationblock	7	Sound	4	267548	0	2			0		other	0
+trystationaryfordurationblock	9	Sound	6	290850	0	2			0		other	0
+trystationaryfordurationblock	11	Sound	4	314249	0	2			0		other	0
+trystationaryfordurationblock	13	Sound	6	337649	0	2			0		other	0
+trystationaryfordurationblock	15	Sound	4	361049	0	2			0		other	0
+trystationaryfordurationblock	17	Sound	4	384448	0	2			0		other	0
+trystationaryfordurationblock	18	Quit		399783	11935
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	8	other				197710	2			0
+Sound	4	other				220749	2			0
+Sound	4	other				244148	2			0
+Sound	4	other				267548	2			0
+Sound	6	other				290850	2			0
+Sound	4	other				314249	2			0
+Sound	6	other				337649	2			0
+Sound	4	other				361049	2			0
+Sound	4	other				384448	2			0

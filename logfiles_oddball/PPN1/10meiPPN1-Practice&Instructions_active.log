@@ -1,0 +1,98 @@
+Scenario - oddball3
+Logfile written - 05/10/2016 15:27:30
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+10meiPPN1	1	Sound	10	505330	0	2			0		other	0
+10meiPPN1	2	Sound	6	569480	0	2			0		other	0
+10meiPPN1	2	Response	1	582334	12854	2
+10meiPPN1	3	Sound	10	723720	0	2			0		other	0
+10meiPPN1	5	Sound	6	747054	0	2			0		other	0
+10meiPPN1	6	Response	1	753264	2820	1
+10meiPPN1	7	Sound	10	770453	0	2			0		other	0
+10meiPPN1	9	Sound	10	793843	0	2			0		other	0
+10meiPPN1	11	Sound	10	817243	0	2			0		other	0
+10meiPPN1	13	Sound	10	840643	0	2			0		other	0
+10meiPPN1	15	Sound	10	864043	0	2			0		other	0
+10meiPPN1	17	Sound	10	887442	0	2			0		other	0
+10meiPPN1	19	Sound	10	910842	0	2			0		other	0
+10meiPPN1	21	Sound	10	934241	0	2			0		other	0
+10meiPPN1	23	Sound	10	957641	0	2			0		other	0
+10meiPPN1	25	Sound	10	981040	0	2			0		other	0
+10meiPPN1	27	Sound	10	1004441	0	2			0		other	0
+10meiPPN1	29	Sound	28	1027840	0	2			0		other	0
+10meiPPN1	31	Sound	10	1051840	0	2			0		other	0
+10meiPPN1	33	Sound	10	1075240	0	2			0		other	0
+10meiPPN1	35	Sound	10	1098638	0	2			0		other	0
+10meiPPN1	37	Sound	10	1122038	0	2			0		other	0
+10meiPPN1	39	Sound	10	1145438	0	2			0		other	0
+10meiPPN1	41	Sound	10	1168837	0	2			0		other	0
+10meiPPN1	43	Sound	10	1192237	0	2			0		other	0
+10meiPPN1	45	Sound	6	1215637	0	2			0		other	0
+10meiPPN1	46	Response	1	1221409	2372	1
+10meiPPN1	47	Sound	10	1239046	0	2			0		other	0
+10meiPPN1	49	Sound	10	1262436	0	2			0		other	0
+10meiPPN1	51	Sound	10	1285835	0	2			0		other	0
+10meiPPN1	53	Sound	10	1309236	0	2			0		other	0
+10meiPPN1	55	Sound	10	1332635	0	2			0		other	0
+10meiPPN1	57	Sound	10	1356035	0	2			0		other	0
+10meiPPN1	59	Sound	6	1379435	0	2			0		other	0
+10meiPPN1	60	Response	1	1385246	2412	1
+10meiPPN1	61	Sound	10	1402843	0	2			0		other	0
+10meiPPN1	63	Sound	10	1426234	0	2			0		other	0
+10meiPPN1	65	Sound	10	1449633	0	2			0		other	0
+10meiPPN1	67	Sound	10	1473032	0	2			0		other	0
+10meiPPN1	69	Sound	10	1496432	0	2			0		other	0
+10meiPPN1	71	Sound	18	1519832	0	2			0		other	0
+10meiPPN1	73	Sound	10	1543132	0	2			0		other	0
+10meiPPN1	75	Sound	10	1566531	0	2			0		other	0
+10meiPPN1	77	Sound	10	1589831	0	2			0		other	0
+10meiPPN1	79	Sound	6	1613231	0	2			0		other	0
+10meiPPN1	80	Response	1	1619484	2854	1
+10meiPPN1	81	Sound	10	1636639	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				505330	2			0
+Sound	6	other				569480	2			0
+Sound	10	other				723720	2			0
+Sound	6	other				747054	2			0
+Sound	10	other				770453	2			0
+Sound	10	other				793843	2			0
+Sound	10	other				817243	2			0
+Sound	10	other				840643	2			0
+Sound	10	other				864043	2			0
+Sound	10	other				887442	2			0
+Sound	10	other				910842	2			0
+Sound	10	other				934241	2			0
+Sound	10	other				957641	2			0
+Sound	10	other				981040	2			0
+Sound	10	other				1004441	2			0
+Sound	28	other				1027840	2			0
+Sound	10	other				1051840	2			0
+Sound	10	other				1075240	2			0
+Sound	10	other				1098638	2			0
+Sound	10	other				1122038	2			0
+Sound	10	other				1145438	2			0
+Sound	10	other				1168837	2			0
+Sound	10	other				1192237	2			0
+Sound	6	other				1215637	2			0
+Sound	10	other				1239046	2			0
+Sound	10	other				1262436	2			0
+Sound	10	other				1285835	2			0
+Sound	10	other				1309236	2			0
+Sound	10	other				1332635	2			0
+Sound	10	other				1356035	2			0
+Sound	6	other				1379435	2			0
+Sound	10	other				1402843	2			0
+Sound	10	other				1426234	2			0
+Sound	10	other				1449633	2			0
+Sound	10	other				1473032	2			0
+Sound	10	other				1496432	2			0
+Sound	18	other				1519832	2			0
+Sound	10	other				1543132	2			0
+Sound	10	other				1566531	2			0
+Sound	10	other				1589831	2			0
+Sound	6	other				1613231	2			0
+Sound	10	other				1636639	2			0

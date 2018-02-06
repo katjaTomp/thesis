@@ -1,0 +1,267 @@
+Scenario - oddball3
+Logfile written - 05/11/2016 12:50:44
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+testdriving1killpptothermoment	1	Sound	24	173224	0	2			0		other	0
+testdriving1killpptothermoment	3	Sound	24	196543	0	2			0		other	0
+testdriving1killpptothermoment	5	Sound	26	219942	0	2			0		other	0
+testdriving1killpptothermoment	7	Sound	24	243341	0	2			0		other	0
+testdriving1killpptothermoment	9	Sound	28	266740	0	2			0		other	0
+testdriving1killpptothermoment	11	Sound	24	290440	0	2			0		other	0
+testdriving1killpptothermoment	13	Sound	24	313840	0	2			0		other	0
+testdriving1killpptothermoment	15	Sound	24	337240	0	2			0		other	0
+testdriving1killpptothermoment	17	Sound	24	360639	0	2			0		other	0
+testdriving1killpptothermoment	19	Sound	24	384040	0	2			0		other	0
+testdriving1killpptothermoment	21	Sound	24	407439	0	2			0		other	0
+testdriving1killpptothermoment	23	Sound	28	430838	0	2			0		other	0
+testdriving1killpptothermoment	25	Sound	24	452537	0	2			0		other	0
+testdriving1killpptothermoment	27	Sound	28	475937	0	2			0		other	0
+testdriving1killpptothermoment	29	Sound	24	500037	0	2			0		other	0
+testdriving1killpptothermoment	31	Sound	24	523437	0	2			0		other	0
+testdriving1killpptothermoment	33	Sound	24	546836	0	2			0		other	0
+testdriving1killpptothermoment	35	Sound	26	570236	0	2			0		other	0
+testdriving1killpptothermoment	37	Sound	24	593635	0	2			0		other	0
+testdriving1killpptothermoment	39	Sound	24	617034	0	2			0		other	0
+testdriving1killpptothermoment	41	Sound	24	640434	0	2			0		other	0
+testdriving1killpptothermoment	43	Sound	28	663834	0	2			0		other	0
+testdriving1killpptothermoment	45	Sound	24	686934	0	2			0		other	0
+testdriving1killpptothermoment	47	Sound	24	710333	0	2			0		other	0
+testdriving1killpptothermoment	49	Sound	24	733733	0	2			0		other	0
+testdriving1killpptothermoment	51	Sound	24	757132	0	2			0		other	0
+testdriving1killpptothermoment	53	Sound	24	780532	0	2			0		other	0
+testdriving1killpptothermoment	55	Sound	24	803931	0	2			0		other	0
+testdriving1killpptothermoment	57	Sound	24	827331	0	2			0		other	0
+testdriving1killpptothermoment	59	Sound	26	850731	0	2			0		other	0
+testdriving1killpptothermoment	61	Sound	24	874131	0	2			0		other	0
+testdriving1killpptothermoment	63	Sound	24	897530	0	2			0		other	0
+testdriving1killpptothermoment	65	Sound	24	920929	0	2			0		other	0
+testdriving1killpptothermoment	67	Sound	24	944329	0	2			0		other	0
+testdriving1killpptothermoment	69	Sound	24	967728	0	2			0		other	0
+testdriving1killpptothermoment	71	Sound	26	991128	0	2			0		other	0
+testdriving1killpptothermoment	73	Sound	24	1014528	0	2			0		other	0
+testdriving1killpptothermoment	75	Sound	28	1037927	0	2			0		other	0
+testdriving1killpptothermoment	77	Sound	24	1060427	0	2			0		other	0
+testdriving1killpptothermoment	79	Sound	24	1083827	0	2			0		other	0
+testdriving1killpptothermoment	81	Sound	24	1107226	0	2			0		other	0
+testdriving1killpptothermoment	83	Sound	28	1130626	0	2			0		other	0
+testdriving1killpptothermoment	85	Sound	24	1154724	0	2			0		other	0
+testdriving1killpptothermoment	87	Sound	24	1178125	0	2			0		other	0
+testdriving1killpptothermoment	89	Sound	24	1201525	0	2			0		other	0
+testdriving1killpptothermoment	91	Sound	28	1224924	0	2			0		other	0
+testdriving1killpptothermoment	93	Sound	24	1248824	0	2			0		other	0
+testdriving1killpptothermoment	95	Sound	24	1272224	0	2			0		other	0
+testdriving1killpptothermoment	97	Sound	24	1295623	0	2			0		other	0
+testdriving1killpptothermoment	99	Sound	26	1319022	0	2			0		other	0
+testdriving1killpptothermoment	101	Sound	24	1342422	0	2			0		other	0
+testdriving1killpptothermoment	103	Sound	26	1365822	0	2			0		other	0
+testdriving1killpptothermoment	105	Sound	24	1389222	0	2			0		other	0
+testdriving1killpptothermoment	107	Sound	24	1412620	0	2			0		other	0
+testdriving1killpptothermoment	109	Sound	24	1435921	0	2			0		other	0
+testdriving1killpptothermoment	111	Sound	24	1459320	0	2			0		other	0
+testdriving1killpptothermoment	113	Sound	24	1482719	0	2			0		other	0
+testdriving1killpptothermoment	115	Sound	24	1506119	0	2			0		other	0
+testdriving1killpptothermoment	117	Sound	24	1529519	0	2			0		other	0
+testdriving1killpptothermoment	119	Sound	24	1552918	0	2			0		other	0
+testdriving1killpptothermoment	121	Sound	24	1576318	0	2			0		other	0
+testdriving1killpptothermoment	123	Sound	24	1599718	0	2			0		other	0
+testdriving1killpptothermoment	125	Sound	24	1623117	0	2			0		other	0
+testdriving1killpptothermoment	127	Sound	26	1646517	0	2			0		other	0
+testdriving1killpptothermoment	129	Sound	24	1669915	0	2			0		other	0
+testdriving1killpptothermoment	131	Sound	28	1693315	0	2			0		other	0
+testdriving1killpptothermoment	133	Sound	24	1717016	0	2			0		other	0
+testdriving1killpptothermoment	135	Sound	24	1740415	0	2			0		other	0
+testdriving1killpptothermoment	137	Sound	24	1763815	0	2			0		other	0
+testdriving1killpptothermoment	139	Sound	26	1787215	0	2			0		other	0
+testdriving1killpptothermoment	141	Sound	24	1810614	0	2			0		other	0
+testdriving1killpptothermoment	143	Sound	24	1834013	0	2			0		other	0
+testdriving1killpptothermoment	145	Sound	24	1857412	0	2			0		other	0
+testdriving1killpptothermoment	147	Sound	24	1880812	0	2			0		other	0
+testdriving1killpptothermoment	149	Sound	24	1904212	0	2			0		other	0
+testdriving1killpptothermoment	151	Sound	28	1927612	0	2			0		other	0
+testdriving1killpptothermoment	153	Sound	24	1950612	0	2			0		other	0
+testdriving1killpptothermoment	155	Sound	26	1974011	0	2			0		other	0
+testdriving1killpptothermoment	157	Sound	24	1997410	0	2			0		other	0
+testdriving1killpptothermoment	159	Sound	24	2020810	0	2			0		other	0
+testdriving1killpptothermoment	161	Sound	24	2044209	0	2			0		other	0
+testdriving1killpptothermoment	163	Sound	24	2067609	0	2			0		other	0
+testdriving1killpptothermoment	165	Sound	24	2090909	0	2			0		other	0
+testdriving1killpptothermoment	167	Sound	24	2114309	0	2			0		other	0
+testdriving1killpptothermoment	169	Sound	24	2137708	0	2			0		other	0
+testdriving1killpptothermoment	171	Sound	24	2161107	0	2			0		other	0
+testdriving1killpptothermoment	173	Sound	24	2184507	0	2			0		other	0
+testdriving1killpptothermoment	175	Sound	24	2207906	0	2			0		other	0
+testdriving1killpptothermoment	177	Sound	24	2231306	0	2			0		other	0
+testdriving1killpptothermoment	179	Sound	26	2254707	0	2			0		other	0
+testdriving1killpptothermoment	181	Sound	24	2278106	0	2			0		other	0
+testdriving1killpptothermoment	183	Sound	26	2301505	0	2			0		other	0
+testdriving1killpptothermoment	185	Sound	24	2324905	0	2			0		other	0
+testdriving1killpptothermoment	187	Sound	28	2348303	0	2			0		other	0
+testdriving1killpptothermoment	189	Sound	24	2371403	0	2			0		other	0
+testdriving1killpptothermoment	191	Sound	24	2394803	0	2			0		other	0
+testdriving1killpptothermoment	193	Sound	24	2418203	0	2			0		other	0
+testdriving1killpptothermoment	195	Sound	24	2441603	0	2			0		other	0
+testdriving1killpptothermoment	197	Sound	24	2465002	0	2			0		other	0
+testdriving1killpptothermoment	199	Sound	28	2488403	0	2			0		other	0
+testdriving1killpptothermoment	201	Sound	24	2512402	0	2			0		other	0
+testdriving1killpptothermoment	203	Sound	24	2535801	0	2			0		other	0
+testdriving1killpptothermoment	205	Sound	24	2559200	0	2			0		other	0
+testdriving1killpptothermoment	207	Sound	24	2582600	0	2			0		other	0
+testdriving1killpptothermoment	209	Sound	24	2606001	0	2			0		other	0
+testdriving1killpptothermoment	211	Sound	24	2629400	0	2			0		other	0
+testdriving1killpptothermoment	213	Sound	24	2652799	0	2			0		other	0
+testdriving1killpptothermoment	215	Sound	24	2676199	0	2			0		other	0
+testdriving1killpptothermoment	217	Sound	24	2699598	0	2			0		other	0
+testdriving1killpptothermoment	219	Sound	24	2722997	0	2			0		other	0
+testdriving1killpptothermoment	221	Sound	24	2746397	0	2			0		other	0
+testdriving1killpptothermoment	223	Sound	28	2769797	0	2			0		other	0
+testdriving1killpptothermoment	225	Sound	24	2793297	0	2			0		other	0
+testdriving1killpptothermoment	227	Sound	24	2816696	0	2			0		other	0
+testdriving1killpptothermoment	229	Sound	24	2840096	0	2			0		other	0
+testdriving1killpptothermoment	231	Sound	26	2863495	0	2			0		other	0
+testdriving1killpptothermoment	233	Sound	24	2886895	0	2			0		other	0
+testdriving1killpptothermoment	235	Sound	28	2910294	0	2			0		other	0
+testdriving1killpptothermoment	237	Sound	24	2934294	0	2			0		other	0
+testdriving1killpptothermoment	239	Sound	26	2957694	0	2			0		other	0
+testdriving1killpptothermoment	241	Sound	24	2981094	0	2			0		other	0
+testdriving1killpptothermoment	243	Sound	24	3004493	0	2			0		other	0
+testdriving1killpptothermoment	245	Sound	24	3027893	0	2			0		other	0
+testdriving1killpptothermoment	247	Sound	24	3051292	0	2			0		other	0
+testdriving1killpptothermoment	249	Sound	24	3074690	0	2			0		other	0
+testdriving1killpptothermoment	251	Sound	24	3098091	0	2			0		other	0
+testdriving1killpptothermoment	253	Sound	24	3121491	0	2			0		other	0
+testdriving1killpptothermoment	255	Sound	24	3144890	0	2			0		other	0
+testdriving1killpptothermoment	257	Sound	24	3168290	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				173224	2			0
+Sound	24	other				196543	2			0
+Sound	26	other				219942	2			0
+Sound	24	other				243341	2			0
+Sound	28	other				266740	2			0
+Sound	24	other				290440	2			0
+Sound	24	other				313840	2			0
+Sound	24	other				337240	2			0
+Sound	24	other				360639	2			0
+Sound	24	other				384040	2			0
+Sound	24	other				407439	2			0
+Sound	28	other				430838	2			0
+Sound	24	other				452537	2			0
+Sound	28	other				475937	2			0
+Sound	24	other				500037	2			0
+Sound	24	other				523437	2			0
+Sound	24	other				546836	2			0
+Sound	26	other				570236	2			0
+Sound	24	other				593635	2			0
+Sound	24	other				617034	2			0
+Sound	24	other				640434	2			0
+Sound	28	other				663834	2			0
+Sound	24	other				686934	2			0
+Sound	24	other				710333	2			0
+Sound	24	other				733733	2			0
+Sound	24	other				757132	2			0
+Sound	24	other				780532	2			0
+Sound	24	other				803931	2			0
+Sound	24	other				827331	2			0
+Sound	26	other				850731	2			0
+Sound	24	other				874131	2			0
+Sound	24	other				897530	2			0
+Sound	24	other				920929	2			0
+Sound	24	other				944329	2			0
+Sound	24	other				967728	2			0
+Sound	26	other				991128	2			0
+Sound	24	other				1014528	2			0
+Sound	28	other				1037927	2			0
+Sound	24	other				1060427	2			0
+Sound	24	other				1083827	2			0
+Sound	24	other				1107226	2			0
+Sound	28	other				1130626	2			0
+Sound	24	other				1154724	2			0
+Sound	24	other				1178125	2			0
+Sound	24	other				1201525	2			0
+Sound	28	other				1224924	2			0
+Sound	24	other				1248824	2			0
+Sound	24	other				1272224	2			0
+Sound	24	other				1295623	2			0
+Sound	26	other				1319022	2			0
+Sound	24	other				1342422	2			0
+Sound	26	other				1365822	2			0
+Sound	24	other				1389222	2			0
+Sound	24	other				1412620	2			0
+Sound	24	other				1435921	2			0
+Sound	24	other				1459320	2			0
+Sound	24	other				1482719	2			0
+Sound	24	other				1506119	2			0
+Sound	24	other				1529519	2			0
+Sound	24	other				1552918	2			0
+Sound	24	other				1576318	2			0
+Sound	24	other				1599718	2			0
+Sound	24	other				1623117	2			0
+Sound	26	other				1646517	2			0
+Sound	24	other				1669915	2			0
+Sound	28	other				1693315	2			0
+Sound	24	other				1717016	2			0
+Sound	24	other				1740415	2			0
+Sound	24	other				1763815	2			0
+Sound	26	other				1787215	2			0
+Sound	24	other				1810614	2			0
+Sound	24	other				1834013	2			0
+Sound	24	other				1857412	2			0
+Sound	24	other				1880812	2			0
+Sound	24	other				1904212	2			0
+Sound	28	other				1927612	2			0
+Sound	24	other				1950612	2			0
+Sound	26	other				1974011	2			0
+Sound	24	other				1997410	2			0
+Sound	24	other				2020810	2			0
+Sound	24	other				2044209	2			0
+Sound	24	other				2067609	2			0
+Sound	24	other				2090909	2			0
+Sound	24	other				2114309	2			0
+Sound	24	other				2137708	2			0
+Sound	24	other				2161107	2			0
+Sound	24	other				2184507	2			0
+Sound	24	other				2207906	2			0
+Sound	24	other				2231306	2			0
+Sound	26	other				2254707	2			0
+Sound	24	other				2278106	2			0
+Sound	26	other				2301505	2			0
+Sound	24	other				2324905	2			0
+Sound	28	other				2348303	2			0
+Sound	24	other				2371403	2			0
+Sound	24	other				2394803	2			0
+Sound	24	other				2418203	2			0
+Sound	24	other				2441603	2			0
+Sound	24	other				2465002	2			0
+Sound	28	other				2488403	2			0
+Sound	24	other				2512402	2			0
+Sound	24	other				2535801	2			0
+Sound	24	other				2559200	2			0
+Sound	24	other				2582600	2			0
+Sound	24	other				2606001	2			0
+Sound	24	other				2629400	2			0
+Sound	24	other				2652799	2			0
+Sound	24	other				2676199	2			0
+Sound	24	other				2699598	2			0
+Sound	24	other				2722997	2			0
+Sound	24	other				2746397	2			0
+Sound	28	other				2769797	2			0
+Sound	24	other				2793297	2			0
+Sound	24	other				2816696	2			0
+Sound	24	other				2840096	2			0
+Sound	26	other				2863495	2			0
+Sound	24	other				2886895	2			0
+Sound	28	other				2910294	2			0
+Sound	24	other				2934294	2			0
+Sound	26	other				2957694	2			0
+Sound	24	other				2981094	2			0
+Sound	24	other				3004493	2			0
+Sound	24	other				3027893	2			0
+Sound	24	other				3051292	2			0
+Sound	24	other				3074690	2			0
+Sound	24	other				3098091	2			0
+Sound	24	other				3121491	2			0
+Sound	24	other				3144890	2			0
+Sound	24	other				3168290	2			0

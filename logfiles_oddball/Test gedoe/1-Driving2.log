@@ -1,0 +1,75 @@
+Scenario - oddball3
+Logfile written - 05/03/2016 16:58:09
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	1	Sound	24	169580	0	2			0		other	0
+1	3	Sound	24	192918	0	2			0		other	0
+1	5	Sound	26	216318	0	2			0		other	0
+1	6	Response	1	227942	8224	1
+1	7	Sound	24	239728	0	2			0		other	0
+1	9	Sound	24	263118	0	2			0		other	0
+1	11	Sound	24	286517	0	2			0		other	0
+1	13	Sound	28	309916	0	2			0		other	0
+1	15	Sound	24	333416	0	2			0		other	0
+1	17	Sound	24	356815	0	2			0		other	0
+1	18	Response	1	366980	6765	1
+1	19	Sound	24	380224	0	2			0		other	0
+1	21	Sound	24	403615	0	2			0		other	0
+1	23	Sound	24	427014	0	2			0		other	0
+1	25	Sound	24	450414	0	2			0		other	0
+1	27	Sound	24	473813	0	2			0		other	0
+1	29	Sound	24	497213	0	2			0		other	0
+1	31	Sound	24	520612	0	2			0		other	0
+1	33	Sound	24	544012	0	2			0		other	0
+1	35	Sound	24	567412	0	2			0		other	0
+1	37	Sound	28	590811	0	2			0		other	0
+1	39	Sound	24	614710	0	2			0		other	0
+1	41	Sound	28	638110	0	2			0		other	0
+1	43	Sound	24	662110	0	2			0		other	0
+1	45	Sound	24	685509	0	2			0		other	0
+1	47	Sound	24	708908	0	2			0		other	0
+1	48	Response	1	725292	12984	1
+1	49	Sound	24	732317	0	2			0		other	0
+1	51	Sound	24	755708	0	2			0		other	0
+1	53	Sound	24	779108	0	2			0		other	0
+1	55	Sound	24	802506	0	2			0		other	0
+1	56	Response	1	820571	14664	1
+1	57	Sound	24	825916	0	2			0		other	0
+1	57	Response	1	827849	1933	1
+1	59	Sound	24	849314	0	2			0		other	0
+1	60	Quit		864490	11785
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				169580	2			0
+Sound	24	other				192918	2			0
+Sound	26	other				216318	2			0
+Sound	24	other				239728	2			0
+Sound	24	other				263118	2			0
+Sound	24	other				286517	2			0
+Sound	28	other				309916	2			0
+Sound	24	other				333416	2			0
+Sound	24	other				356815	2			0
+Sound	24	other				380224	2			0
+Sound	24	other				403615	2			0
+Sound	24	other				427014	2			0
+Sound	24	other				450414	2			0
+Sound	24	other				473813	2			0
+Sound	24	other				497213	2			0
+Sound	24	other				520612	2			0
+Sound	24	other				544012	2			0
+Sound	24	other				567412	2			0
+Sound	28	other				590811	2			0
+Sound	24	other				614710	2			0
+Sound	28	other				638110	2			0
+Sound	24	other				662110	2			0
+Sound	24	other				685509	2			0
+Sound	24	other				708908	2			0
+Sound	24	other				732317	2			0
+Sound	24	other				755708	2			0
+Sound	24	other				779108	2			0
+Sound	24	other				802506	2			0
+Sound	24	other				825916	2			0
+Sound	24	other				849314	2			0

@@ -1,0 +1,93 @@
+Scenario - oddball3
+Logfile written - 05/10/2016 14:08:28
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+testpassive	1	Sound	10	483140	0	2			0		other	0
+testpassive	2	Sound	6	547420	0	2			0		other	0
+testpassive	3	Sound	10	701840	0	2			0		other	0
+testpassive	5	Sound	6	725219	0	2			0		other	0
+testpassive	7	Sound	10	748617	0	2			0		other	0
+testpassive	9	Sound	10	772018	0	2			0		other	0
+testpassive	11	Sound	10	795417	0	2			0		other	0
+testpassive	13	Sound	10	818817	0	2			0		other	0
+testpassive	15	Sound	10	842216	0	2			0		other	0
+testpassive	17	Sound	10	865617	0	2			0		other	0
+testpassive	19	Sound	10	889016	0	2			0		other	0
+testpassive	21	Sound	10	912416	0	2			0		other	0
+testpassive	23	Sound	10	935815	0	2			0		other	0
+testpassive	25	Sound	10	959215	0	2			0		other	0
+testpassive	27	Sound	10	982614	0	2			0		other	0
+testpassive	29	Sound	28	1006014	0	2			0		other	0
+testpassive	31	Sound	10	1030014	0	2			0		other	0
+testpassive	33	Sound	10	1053413	0	2			0		other	0
+testpassive	35	Sound	10	1076814	0	2			0		other	0
+testpassive	37	Sound	10	1100212	0	2			0		other	0
+testpassive	39	Sound	10	1123612	0	2			0		other	0
+testpassive	41	Sound	10	1147011	0	2			0		other	0
+testpassive	43	Sound	10	1170412	0	2			0		other	0
+testpassive	45	Sound	6	1193811	0	2			0		other	0
+testpassive	47	Sound	10	1217211	0	2			0		other	0
+testpassive	49	Sound	10	1240610	0	2			0		other	0
+testpassive	51	Sound	10	1264010	0	2			0		other	0
+testpassive	53	Sound	10	1287409	0	2			0		other	0
+testpassive	55	Sound	10	1310809	0	2			0		other	0
+testpassive	57	Sound	10	1334208	0	2			0		other	0
+testpassive	59	Sound	6	1357609	0	2			0		other	0
+testpassive	61	Sound	10	1381008	0	2			0		other	0
+testpassive	63	Sound	10	1404408	0	2			0		other	0
+testpassive	65	Sound	10	1427808	0	2			0		other	0
+testpassive	67	Sound	10	1451207	0	2			0		other	0
+testpassive	69	Sound	10	1474606	0	2			0		other	0
+testpassive	71	Sound	18	1498006	0	2			0		other	0
+testpassive	73	Sound	10	1521306	0	2			0		other	0
+testpassive	75	Sound	10	1544705	0	2			0		other	0
+testpassive	77	Sound	10	1568106	0	2			0		other	0
+testpassive	79	Sound	6	1591506	0	2			0		other	0
+testpassive	81	Sound	10	1614904	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				483140	2			0
+Sound	6	other				547420	2			0
+Sound	10	other				701840	2			0
+Sound	6	other				725219	2			0
+Sound	10	other				748617	2			0
+Sound	10	other				772018	2			0
+Sound	10	other				795417	2			0
+Sound	10	other				818817	2			0
+Sound	10	other				842216	2			0
+Sound	10	other				865617	2			0
+Sound	10	other				889016	2			0
+Sound	10	other				912416	2			0
+Sound	10	other				935815	2			0
+Sound	10	other				959215	2			0
+Sound	10	other				982614	2			0
+Sound	28	other				1006014	2			0
+Sound	10	other				1030014	2			0
+Sound	10	other				1053413	2			0
+Sound	10	other				1076814	2			0
+Sound	10	other				1100212	2			0
+Sound	10	other				1123612	2			0
+Sound	10	other				1147011	2			0
+Sound	10	other				1170412	2			0
+Sound	6	other				1193811	2			0
+Sound	10	other				1217211	2			0
+Sound	10	other				1240610	2			0
+Sound	10	other				1264010	2			0
+Sound	10	other				1287409	2			0
+Sound	10	other				1310809	2			0
+Sound	10	other				1334208	2			0
+Sound	6	other				1357609	2			0
+Sound	10	other				1381008	2			0
+Sound	10	other				1404408	2			0
+Sound	10	other				1427808	2			0
+Sound	10	other				1451207	2			0
+Sound	10	other				1474606	2			0
+Sound	18	other				1498006	2			0
+Sound	10	other				1521306	2			0
+Sound	10	other				1544705	2			0
+Sound	10	other				1568106	2			0
+Sound	6	other				1591506	2			0
+Sound	10	other				1614904	2			0

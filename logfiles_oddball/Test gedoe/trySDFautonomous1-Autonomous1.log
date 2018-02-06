@@ -1,0 +1,40 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 16:02:48
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+trySDFautonomous1	1	Sound	14	171270	0	2			0		other	0
+trySDFautonomous1	3	Sound	14	194628	0	2			0		other	0
+trySDFautonomous1	5	Sound	14	218027	0	2			0		other	0
+trySDFautonomous1	7	Sound	18	241427	0	2			0		other	0
+trySDFautonomous1	9	Sound	14	265327	0	2			0		other	0
+trySDFautonomous1	11	Sound	14	288726	0	2			0		other	0
+trySDFautonomous1	13	Sound	14	312125	0	2			0		other	0
+trySDFautonomous1	15	Sound	14	335525	0	2			0		other	0
+trySDFautonomous1	17	Sound	14	358926	0	2			0		other	0
+trySDFautonomous1	19	Sound	14	382325	0	2			0		other	0
+trySDFautonomous1	21	Sound	14	405726	0	2			0		other	0
+trySDFautonomous1	23	Sound	18	429125	0	2			0		other	0
+trySDFautonomous1	25	Sound	14	452425	0	2			0		other	0
+trySDFautonomous1	27	Sound	16	475825	0	2			0		other	0
+trySDFautonomous1	28	Response	1	484337	5113	1
+trySDFautonomous1	29	Sound	14	499234	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	14	other				171270	2			0
+Sound	14	other				194628	2			0
+Sound	14	other				218027	2			0
+Sound	18	other				241427	2			0
+Sound	14	other				265327	2			0
+Sound	14	other				288726	2			0
+Sound	14	other				312125	2			0
+Sound	14	other				335525	2			0
+Sound	14	other				358926	2			0
+Sound	14	other				382325	2			0
+Sound	14	other				405726	2			0
+Sound	18	other				429125	2			0
+Sound	14	other				452425	2			0
+Sound	16	other				475825	2			0
+Sound	14	other				499234	2			0

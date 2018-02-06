@@ -1,0 +1,99 @@
+Scenario - oddball3
+Logfile written - 05/26/2016 12:21:09
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN17-OEFEN-26MEI	1	Sound	10	483280	0	2			0		other	0
+PPN17-OEFEN-26MEI	2	Sound	6	547730	0	2			0		other	0
+PPN17-OEFEN-26MEI	2	Response	1	553773	6043	1
+PPN17-OEFEN-26MEI	3	Sound	10	702090	0	2			0		other	0
+PPN17-OEFEN-26MEI	5	Sound	6	725489	0	2			0		other	0
+PPN17-OEFEN-26MEI	6	Response	1	731252	2378	1
+PPN17-OEFEN-26MEI	7	Sound	10	748889	0	2			0		other	0
+PPN17-OEFEN-26MEI	9	Sound	10	772274	0	2			0		other	0
+PPN17-OEFEN-26MEI	11	Sound	10	795673	0	2			0		other	0
+PPN17-OEFEN-26MEI	13	Sound	10	819072	0	2			0		other	0
+PPN17-OEFEN-26MEI	15	Sound	10	842472	0	2			0		other	0
+PPN17-OEFEN-26MEI	17	Sound	10	865871	0	2			0		other	0
+PPN17-OEFEN-26MEI	19	Sound	10	889270	0	2			0		other	0
+PPN17-OEFEN-26MEI	21	Sound	10	912671	0	2			0		other	0
+PPN17-OEFEN-26MEI	23	Sound	10	936071	0	2			0		other	0
+PPN17-OEFEN-26MEI	25	Sound	10	959470	0	2			0		other	0
+PPN17-OEFEN-26MEI	27	Sound	10	982870	0	2			0		other	0
+PPN17-OEFEN-26MEI	29	Sound	28	1006269	0	2			0		other	0
+PPN17-OEFEN-26MEI	31	Sound	10	1030268	0	2			0		other	0
+PPN17-OEFEN-26MEI	33	Sound	10	1053668	0	2			0		other	0
+PPN17-OEFEN-26MEI	35	Sound	10	1077068	0	2			0		other	0
+PPN17-OEFEN-26MEI	37	Sound	10	1100467	0	2			0		other	0
+PPN17-OEFEN-26MEI	39	Sound	10	1123868	0	2			0		other	0
+PPN17-OEFEN-26MEI	41	Sound	10	1147267	0	2			0		other	0
+PPN17-OEFEN-26MEI	43	Sound	10	1170666	0	2			0		other	0
+PPN17-OEFEN-26MEI	45	Sound	6	1194065	0	2			0		other	0
+PPN17-OEFEN-26MEI	46	Response	1	1200347	2882	1
+PPN17-OEFEN-26MEI	47	Sound	10	1217479	0	2			0		other	0
+PPN17-OEFEN-26MEI	49	Sound	10	1240866	0	2			0		other	0
+PPN17-OEFEN-26MEI	51	Sound	10	1264265	0	2			0		other	0
+PPN17-OEFEN-26MEI	53	Sound	10	1287665	0	2			0		other	0
+PPN17-OEFEN-26MEI	55	Sound	10	1311064	0	2			0		other	0
+PPN17-OEFEN-26MEI	57	Sound	10	1334464	0	2			0		other	0
+PPN17-OEFEN-26MEI	59	Sound	6	1357863	0	2			0		other	0
+PPN17-OEFEN-26MEI	60	Response	1	1363863	2600	1
+PPN17-OEFEN-26MEI	61	Sound	10	1381277	0	2			0		other	0
+PPN17-OEFEN-26MEI	63	Sound	10	1404663	0	2			0		other	0
+PPN17-OEFEN-26MEI	65	Sound	10	1428063	0	2			0		other	0
+PPN17-OEFEN-26MEI	67	Sound	10	1451462	0	2			0		other	0
+PPN17-OEFEN-26MEI	69	Sound	10	1474861	0	2			0		other	0
+PPN17-OEFEN-26MEI	71	Sound	18	1498261	0	2			0		other	0
+PPN17-OEFEN-26MEI	73	Sound	10	1521561	0	2			0		other	0
+PPN17-OEFEN-26MEI	75	Sound	10	1544960	0	2			0		other	0
+PPN17-OEFEN-26MEI	77	Sound	10	1568360	0	2			0		other	0
+PPN17-OEFEN-26MEI	79	Sound	6	1591760	0	2			0		other	0
+PPN17-OEFEN-26MEI	80	Response	1	1596339	1180	1
+PPN17-OEFEN-26MEI	81	Sound	10	1615173	0	2			0		other	0
+PPN17-OEFEN-26MEI	82	Response	1	2471405	852846	1
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				483280	2			0
+Sound	6	other				547730	2			0
+Sound	10	other				702090	2			0
+Sound	6	other				725489	2			0
+Sound	10	other				748889	2			0
+Sound	10	other				772274	2			0
+Sound	10	other				795673	2			0
+Sound	10	other				819072	2			0
+Sound	10	other				842472	2			0
+Sound	10	other				865871	2			0
+Sound	10	other				889270	2			0
+Sound	10	other				912671	2			0
+Sound	10	other				936071	2			0
+Sound	10	other				959470	2			0
+Sound	10	other				982870	2			0
+Sound	28	other				1006269	2			0
+Sound	10	other				1030268	2			0
+Sound	10	other				1053668	2			0
+Sound	10	other				1077068	2			0
+Sound	10	other				1100467	2			0
+Sound	10	other				1123868	2			0
+Sound	10	other				1147267	2			0
+Sound	10	other				1170666	2			0
+Sound	6	other				1194065	2			0
+Sound	10	other				1217479	2			0
+Sound	10	other				1240866	2			0
+Sound	10	other				1264265	2			0
+Sound	10	other				1287665	2			0
+Sound	10	other				1311064	2			0
+Sound	10	other				1334464	2			0
+Sound	6	other				1357863	2			0
+Sound	10	other				1381277	2			0
+Sound	10	other				1404663	2			0
+Sound	10	other				1428063	2			0
+Sound	10	other				1451462	2			0
+Sound	10	other				1474861	2			0
+Sound	18	other				1498261	2			0
+Sound	10	other				1521561	2			0
+Sound	10	other				1544960	2			0
+Sound	10	other				1568360	2			0
+Sound	6	other				1591760	2			0
+Sound	10	other				1615173	2			0

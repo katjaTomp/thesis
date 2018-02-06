@@ -1,0 +1,281 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 11:56:44
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+DJ-9mei	1	Sound	24	192440	0	2			0		other	0
+DJ-9mei	3	Sound	24	215801	0	2			0		other	0
+DJ-9mei	5	Sound	26	239202	0	2			0		other	0
+DJ-9mei	6	Response	1	244702	2101	1
+DJ-9mei	7	Sound	24	262610	0	2			0		other	0
+DJ-9mei	9	Sound	28	286001	0	2			0		other	0
+DJ-9mei	11	Sound	24	309701	0	2			0		other	0
+DJ-9mei	13	Sound	24	333101	0	2			0		other	0
+DJ-9mei	15	Sound	24	356500	0	2			0		other	0
+DJ-9mei	17	Sound	24	379900	0	2			0		other	0
+DJ-9mei	19	Sound	24	403300	0	2			0		other	0
+DJ-9mei	21	Sound	24	426700	0	2			0		other	0
+DJ-9mei	23	Sound	28	450100	0	2			0		other	0
+DJ-9mei	25	Sound	24	471800	0	2			0		other	0
+DJ-9mei	27	Sound	28	495199	0	2			0		other	0
+DJ-9mei	28	Response	1	499895	597	2
+DJ-9mei	29	Sound	24	519308	0	1			0		other	0
+DJ-9mei	31	Sound	24	542698	0	2			0		other	0
+DJ-9mei	33	Sound	24	566098	0	2			0		other	0
+DJ-9mei	35	Sound	26	589498	0	2			0		other	0
+DJ-9mei	36	Response	1	593967	1069	1
+DJ-9mei	37	Sound	24	612907	0	2			0		other	0
+DJ-9mei	39	Sound	24	636298	0	2			0		other	0
+DJ-9mei	41	Sound	24	659698	0	2			0		other	0
+DJ-9mei	43	Sound	28	683097	0	2			0		other	0
+DJ-9mei	45	Sound	24	706196	0	2			0		other	0
+DJ-9mei	47	Sound	24	729596	0	2			0		other	0
+DJ-9mei	49	Sound	24	752995	0	2			0		other	0
+DJ-9mei	51	Sound	24	776296	0	2			0		other	0
+DJ-9mei	53	Sound	24	799696	0	2			0		other	0
+DJ-9mei	55	Sound	24	823096	0	2			0		other	0
+DJ-9mei	57	Sound	24	846495	0	2			0		other	0
+DJ-9mei	59	Sound	26	869895	0	2			0		other	0
+DJ-9mei	60	Response	1	874194	899	1
+DJ-9mei	61	Sound	24	893304	0	2			0		other	0
+DJ-9mei	63	Sound	24	916694	0	2			0		other	0
+DJ-9mei	65	Sound	24	940095	0	2			0		other	0
+DJ-9mei	67	Sound	24	963494	0	2			0		other	0
+DJ-9mei	69	Sound	24	986894	0	2			0		other	0
+DJ-9mei	71	Sound	26	1010294	0	2			0		other	0
+DJ-9mei	72	Response	1	1014781	1088	1
+DJ-9mei	73	Sound	24	1033702	0	2			0		other	0
+DJ-9mei	75	Sound	28	1057093	0	2			0		other	0
+DJ-9mei	77	Sound	24	1079592	0	2			0		other	0
+DJ-9mei	79	Sound	24	1102992	0	2			0		other	0
+DJ-9mei	81	Sound	24	1126393	0	2			0		other	0
+DJ-9mei	83	Sound	28	1149792	0	2			0		other	0
+DJ-9mei	85	Sound	24	1173892	0	2			0		other	0
+DJ-9mei	87	Sound	24	1197292	0	2			0		other	0
+DJ-9mei	89	Sound	24	1220691	0	2			0		other	0
+DJ-9mei	91	Sound	28	1244091	0	2			0		other	0
+DJ-9mei	93	Sound	24	1267990	0	2			0		other	0
+DJ-9mei	95	Sound	24	1291390	0	2			0		other	0
+DJ-9mei	97	Sound	24	1314790	0	2			0		other	0
+DJ-9mei	99	Sound	26	1338190	0	2			0		other	0
+DJ-9mei	100	Response	1	1342631	1041	1
+DJ-9mei	101	Sound	24	1361599	0	2			0		other	0
+DJ-9mei	103	Sound	26	1384989	0	2			0		other	0
+DJ-9mei	104	Response	1	1389704	1315	1
+DJ-9mei	105	Sound	24	1408398	0	2			0		other	0
+DJ-9mei	107	Sound	24	1431789	0	2			0		other	0
+DJ-9mei	109	Sound	24	1455188	0	2			0		other	0
+DJ-9mei	111	Sound	24	1478589	0	2			0		other	0
+DJ-9mei	113	Sound	24	1501989	0	2			0		other	0
+DJ-9mei	115	Sound	24	1525388	0	2			0		other	0
+DJ-9mei	117	Sound	24	1548788	0	2			0		other	0
+DJ-9mei	119	Sound	24	1572187	0	2			0		other	0
+DJ-9mei	121	Sound	24	1595587	0	2			0		other	0
+DJ-9mei	123	Sound	24	1618987	0	2			0		other	0
+DJ-9mei	125	Sound	24	1642387	0	2			0		other	0
+DJ-9mei	127	Sound	26	1665787	0	2			0		other	0
+DJ-9mei	128	Response	1	1670557	1370	1
+DJ-9mei	129	Sound	24	1689196	0	2			0		other	0
+DJ-9mei	131	Sound	28	1712587	0	2			0		other	0
+DJ-9mei	133	Sound	24	1736286	0	2			0		other	0
+DJ-9mei	135	Sound	24	1759686	0	2			0		other	0
+DJ-9mei	137	Sound	24	1783085	0	2			0		other	0
+DJ-9mei	139	Sound	26	1806485	0	2			0		other	0
+DJ-9mei	140	Response	1	1811764	1878	1
+DJ-9mei	141	Sound	24	1829895	0	2			0		other	0
+DJ-9mei	143	Sound	24	1853285	0	2			0		other	0
+DJ-9mei	145	Sound	24	1876685	0	2			0		other	0
+DJ-9mei	147	Sound	24	1900085	0	2			0		other	0
+DJ-9mei	149	Sound	24	1923484	0	2			0		other	0
+DJ-9mei	151	Sound	28	1946883	0	2			0		other	0
+DJ-9mei	153	Sound	24	1969883	0	2			0		other	0
+DJ-9mei	155	Sound	26	1993283	0	2			0		other	0
+DJ-9mei	156	Response	1	1998723	2040	2
+DJ-9mei	157	Sound	24	2016692	0	2			0		other	0
+DJ-9mei	159	Sound	24	2040083	0	2			0		other	0
+DJ-9mei	161	Sound	24	2063483	0	2			0		other	0
+DJ-9mei	163	Sound	24	2086882	0	2			0		other	0
+DJ-9mei	165	Sound	24	2110282	0	2			0		other	0
+DJ-9mei	167	Sound	24	2133681	0	2			0		other	0
+DJ-9mei	169	Sound	24	2157081	0	2			0		other	0
+DJ-9mei	171	Sound	24	2180481	0	2			0		other	0
+DJ-9mei	173	Sound	24	2203781	0	2			0		other	0
+DJ-9mei	175	Sound	24	2227181	0	2			0		other	0
+DJ-9mei	177	Sound	24	2250581	0	2			0		other	0
+DJ-9mei	179	Sound	26	2273980	0	2			0		other	0
+DJ-9mei	180	Response	1	2278378	998	1
+DJ-9mei	181	Sound	24	2297389	0	2			0		other	0
+DJ-9mei	183	Sound	26	2320779	0	2			0		other	0
+DJ-9mei	184	Response	1	2325431	1251	1
+DJ-9mei	185	Sound	24	2344189	0	2			0		other	0
+DJ-9mei	187	Sound	28	2367580	0	2			0		other	0
+DJ-9mei	189	Sound	24	2390679	0	2			0		other	0
+DJ-9mei	191	Sound	24	2414080	0	2			0		other	0
+DJ-9mei	193	Sound	24	2437479	0	2			0		other	0
+DJ-9mei	195	Sound	24	2460878	0	2			0		other	0
+DJ-9mei	197	Sound	24	2484278	0	2			0		other	0
+DJ-9mei	199	Sound	28	2507677	0	2			0		other	0
+DJ-9mei	201	Sound	24	2531578	0	2			0		other	0
+DJ-9mei	203	Sound	24	2554978	0	2			0		other	0
+DJ-9mei	205	Sound	24	2578377	0	2			0		other	0
+DJ-9mei	207	Sound	24	2601777	0	2			0		other	0
+DJ-9mei	209	Sound	24	2625177	0	2			0		other	0
+DJ-9mei	211	Sound	24	2648576	0	2			0		other	0
+DJ-9mei	213	Sound	24	2671976	0	2			0		other	0
+DJ-9mei	215	Sound	24	2695375	0	2			0		other	0
+DJ-9mei	217	Sound	24	2718776	0	2			0		other	0
+DJ-9mei	219	Sound	24	2742176	0	2			0		other	0
+DJ-9mei	221	Sound	24	2765576	0	2			0		other	0
+DJ-9mei	223	Sound	28	2788975	0	2			0		other	0
+DJ-9mei	225	Sound	24	2812475	0	2			0		other	0
+DJ-9mei	227	Sound	24	2835874	0	2			0		other	0
+DJ-9mei	229	Sound	24	2859274	0	2			0		other	0
+DJ-9mei	231	Sound	26	2882674	0	2			0		other	0
+DJ-9mei	232	Response	1	2888077	2003	1
+DJ-9mei	233	Sound	24	2906084	0	1			0		other	0
+DJ-9mei	235	Sound	28	2929474	0	2			0		other	0
+DJ-9mei	237	Sound	24	2953474	0	2			0		other	0
+DJ-9mei	239	Sound	26	2976873	0	2			0		other	0
+DJ-9mei	240	Response	1	2983267	2994	1
+DJ-9mei	241	Sound	24	3000282	0	2			0		other	0
+DJ-9mei	243	Sound	24	3023673	0	2			0		other	0
+DJ-9mei	245	Sound	24	3047072	0	2			0		other	0
+DJ-9mei	247	Sound	24	3070472	0	2			0		other	0
+DJ-9mei	249	Sound	24	3093872	0	2			0		other	0
+DJ-9mei	251	Sound	24	3117272	0	2			0		other	0
+DJ-9mei	253	Sound	24	3140671	0	2			0		other	0
+DJ-9mei	255	Sound	24	3164071	0	2			0		other	0
+DJ-9mei	257	Sound	24	3187471	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				192440	2			0
+Sound	24	other				215801	2			0
+Sound	26	other				239202	2			0
+Sound	24	other				262610	2			0
+Sound	28	other				286001	2			0
+Sound	24	other				309701	2			0
+Sound	24	other				333101	2			0
+Sound	24	other				356500	2			0
+Sound	24	other				379900	2			0
+Sound	24	other				403300	2			0
+Sound	24	other				426700	2			0
+Sound	28	other				450100	2			0
+Sound	24	other				471800	2			0
+Sound	28	other				495199	2			0
+Sound	24	other				519308	1			0
+Sound	24	other				542698	2			0
+Sound	24	other				566098	2			0
+Sound	26	other				589498	2			0
+Sound	24	other				612907	2			0
+Sound	24	other				636298	2			0
+Sound	24	other				659698	2			0
+Sound	28	other				683097	2			0
+Sound	24	other				706196	2			0
+Sound	24	other				729596	2			0
+Sound	24	other				752995	2			0
+Sound	24	other				776296	2			0
+Sound	24	other				799696	2			0
+Sound	24	other				823096	2			0
+Sound	24	other				846495	2			0
+Sound	26	other				869895	2			0
+Sound	24	other				893304	2			0
+Sound	24	other				916694	2			0
+Sound	24	other				940095	2			0
+Sound	24	other				963494	2			0
+Sound	24	other				986894	2			0
+Sound	26	other				1010294	2			0
+Sound	24	other				1033702	2			0
+Sound	28	other				1057093	2			0
+Sound	24	other				1079592	2			0
+Sound	24	other				1102992	2			0
+Sound	24	other				1126393	2			0
+Sound	28	other				1149792	2			0
+Sound	24	other				1173892	2			0
+Sound	24	other				1197292	2			0
+Sound	24	other				1220691	2			0
+Sound	28	other				1244091	2			0
+Sound	24	other				1267990	2			0
+Sound	24	other				1291390	2			0
+Sound	24	other				1314790	2			0
+Sound	26	other				1338190	2			0
+Sound	24	other				1361599	2			0
+Sound	26	other				1384989	2			0
+Sound	24	other				1408398	2			0
+Sound	24	other				1431789	2			0
+Sound	24	other				1455188	2			0
+Sound	24	other				1478589	2			0
+Sound	24	other				1501989	2			0
+Sound	24	other				1525388	2			0
+Sound	24	other				1548788	2			0
+Sound	24	other				1572187	2			0
+Sound	24	other				1595587	2			0
+Sound	24	other				1618987	2			0
+Sound	24	other				1642387	2			0
+Sound	26	other				1665787	2			0
+Sound	24	other				1689196	2			0
+Sound	28	other				1712587	2			0
+Sound	24	other				1736286	2			0
+Sound	24	other				1759686	2			0
+Sound	24	other				1783085	2			0
+Sound	26	other				1806485	2			0
+Sound	24	other				1829895	2			0
+Sound	24	other				1853285	2			0
+Sound	24	other				1876685	2			0
+Sound	24	other				1900085	2			0
+Sound	24	other				1923484	2			0
+Sound	28	other				1946883	2			0
+Sound	24	other				1969883	2			0
+Sound	26	other				1993283	2			0
+Sound	24	other				2016692	2			0
+Sound	24	other				2040083	2			0
+Sound	24	other				2063483	2			0
+Sound	24	other				2086882	2			0
+Sound	24	other				2110282	2			0
+Sound	24	other				2133681	2			0
+Sound	24	other				2157081	2			0
+Sound	24	other				2180481	2			0
+Sound	24	other				2203781	2			0
+Sound	24	other				2227181	2			0
+Sound	24	other				2250581	2			0
+Sound	26	other				2273980	2			0
+Sound	24	other				2297389	2			0
+Sound	26	other				2320779	2			0
+Sound	24	other				2344189	2			0
+Sound	28	other				2367580	2			0
+Sound	24	other				2390679	2			0
+Sound	24	other				2414080	2			0
+Sound	24	other				2437479	2			0
+Sound	24	other				2460878	2			0
+Sound	24	other				2484278	2			0
+Sound	28	other				2507677	2			0
+Sound	24	other				2531578	2			0
+Sound	24	other				2554978	2			0
+Sound	24	other				2578377	2			0
+Sound	24	other				2601777	2			0
+Sound	24	other				2625177	2			0
+Sound	24	other				2648576	2			0
+Sound	24	other				2671976	2			0
+Sound	24	other				2695375	2			0
+Sound	24	other				2718776	2			0
+Sound	24	other				2742176	2			0
+Sound	24	other				2765576	2			0
+Sound	28	other				2788975	2			0
+Sound	24	other				2812475	2			0
+Sound	24	other				2835874	2			0
+Sound	24	other				2859274	2			0
+Sound	26	other				2882674	2			0
+Sound	24	other				2906084	1			0
+Sound	28	other				2929474	2			0
+Sound	24	other				2953474	2			0
+Sound	26	other				2976873	2			0
+Sound	24	other				3000282	2			0
+Sound	24	other				3023673	2			0
+Sound	24	other				3047072	2			0
+Sound	24	other				3070472	2			0
+Sound	24	other				3093872	2			0
+Sound	24	other				3117272	2			0
+Sound	24	other				3140671	2			0
+Sound	24	other				3164071	2			0
+Sound	24	other				3187471	2			0

@@ -1,0 +1,97 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 10:16:44
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+DJ	1	Sound	10	505210	0	2			0		other	0
+DJ	2	Sound	6	569440	0	2			0		other	0
+DJ	3	Sound	10	723640	0	2			0		other	0
+DJ	5	Sound	6	746954	0	2			0		other	0
+DJ	6	Response	1	751739	1386	1
+DJ	7	Sound	10	770362	0	2			0		other	0
+DJ	9	Sound	10	793754	0	2			0		other	0
+DJ	11	Sound	10	817154	0	2			0		other	0
+DJ	13	Sound	10	840553	0	2			0		other	0
+DJ	15	Sound	10	863953	0	2			0		other	0
+DJ	17	Sound	10	887352	0	2			0		other	0
+DJ	19	Sound	10	910752	0	2			0		other	0
+DJ	21	Sound	10	934151	0	2			0		other	0
+DJ	23	Sound	10	957551	0	2			0		other	0
+DJ	25	Sound	10	980951	0	2			0		other	0
+DJ	27	Sound	10	1004251	0	2			0		other	0
+DJ	29	Sound	28	1027651	0	2			0		other	0
+DJ	31	Sound	10	1051651	0	2			0		other	0
+DJ	33	Sound	10	1075050	0	2			0		other	0
+DJ	35	Sound	10	1098450	0	2			0		other	0
+DJ	37	Sound	10	1121849	0	2			0		other	0
+DJ	39	Sound	10	1145250	0	2			0		other	0
+DJ	41	Sound	10	1168650	0	2			0		other	0
+DJ	43	Sound	10	1192049	0	2			0		other	0
+DJ	45	Sound	6	1215448	0	2			0		other	0
+DJ	46	Response	1	1220686	1838	1
+DJ	47	Sound	10	1238859	0	1			0		other	0
+DJ	49	Sound	10	1262248	0	2			0		other	0
+DJ	51	Sound	10	1285648	0	2			0		other	0
+DJ	53	Sound	10	1309047	0	2			0		other	0
+DJ	55	Sound	10	1332448	0	2			0		other	0
+DJ	57	Sound	10	1355848	0	2			0		other	0
+DJ	59	Sound	6	1379247	0	2			0		other	0
+DJ	60	Response	1	1383241	595	1
+DJ	61	Sound	10	1402656	0	1			0		other	0
+DJ	63	Sound	10	1426047	0	2			0		other	0
+DJ	65	Sound	10	1449446	0	2			0		other	0
+DJ	67	Sound	10	1472846	0	2			0		other	0
+DJ	69	Sound	10	1496246	0	2			0		other	0
+DJ	71	Sound	18	1519646	0	2			0		other	0
+DJ	73	Sound	10	1542946	0	2			0		other	0
+DJ	75	Sound	10	1566346	0	2			0		other	0
+DJ	77	Sound	10	1589744	0	2			0		other	0
+DJ	79	Sound	6	1613144	0	2			0		other	0
+DJ	80	Response	1	1617641	1097	1
+DJ	81	Sound	10	1636553	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				505210	2			0
+Sound	6	other				569440	2			0
+Sound	10	other				723640	2			0
+Sound	6	other				746954	2			0
+Sound	10	other				770362	2			0
+Sound	10	other				793754	2			0
+Sound	10	other				817154	2			0
+Sound	10	other				840553	2			0
+Sound	10	other				863953	2			0
+Sound	10	other				887352	2			0
+Sound	10	other				910752	2			0
+Sound	10	other				934151	2			0
+Sound	10	other				957551	2			0
+Sound	10	other				980951	2			0
+Sound	10	other				1004251	2			0
+Sound	28	other				1027651	2			0
+Sound	10	other				1051651	2			0
+Sound	10	other				1075050	2			0
+Sound	10	other				1098450	2			0
+Sound	10	other				1121849	2			0
+Sound	10	other				1145250	2			0
+Sound	10	other				1168650	2			0
+Sound	10	other				1192049	2			0
+Sound	6	other				1215448	2			0
+Sound	10	other				1238859	1			0
+Sound	10	other				1262248	2			0
+Sound	10	other				1285648	2			0
+Sound	10	other				1309047	2			0
+Sound	10	other				1332448	2			0
+Sound	10	other				1355848	2			0
+Sound	6	other				1379247	2			0
+Sound	10	other				1402656	1			0
+Sound	10	other				1426047	2			0
+Sound	10	other				1449446	2			0
+Sound	10	other				1472846	2			0
+Sound	10	other				1496246	2			0
+Sound	18	other				1519646	2			0
+Sound	10	other				1542946	2			0
+Sound	10	other				1566346	2			0
+Sound	10	other				1589744	2			0
+Sound	6	other				1613144	2			0
+Sound	10	other				1636553	2			0

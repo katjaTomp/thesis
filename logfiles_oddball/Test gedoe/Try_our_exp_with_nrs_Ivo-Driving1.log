@@ -1,0 +1,30 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 09:22:30
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Try_our_exp_with_nrs_Ivo	1	Sound	24	169990	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	3	Sound	24	193298	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	5	Sound	26	216697	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	6	Response	1	224236	4139	1
+Try_our_exp_with_nrs_Ivo	7	Sound	24	240106	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	9	Sound	28	263496	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	11	Sound	24	287196	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	13	Sound	24	310596	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	15	Sound	24	333996	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	17	Sound	24	357396	0	2			0		other	0
+Try_our_exp_with_nrs_Ivo	19	Sound	24	380795	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				169990	2			0
+Sound	24	other				193298	2			0
+Sound	26	other				216697	2			0
+Sound	24	other				240106	2			0
+Sound	28	other				263496	2			0
+Sound	24	other				287196	2			0
+Sound	24	other				310596	2			0
+Sound	24	other				333996	2			0
+Sound	24	other				357396	2			0
+Sound	24	other				380795	2			0

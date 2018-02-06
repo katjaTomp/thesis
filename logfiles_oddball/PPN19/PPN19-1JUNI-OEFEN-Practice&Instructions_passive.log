@@ -1,0 +1,93 @@
+Scenario - oddball3
+Logfile written - 06/01/2016 15:39:19
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN19-1JUNI-OEFEN	1	Sound	10	505490	0	2			0		other	0
+PPN19-1JUNI-OEFEN	2	Sound	6	569650	0	2			0		other	0
+PPN19-1JUNI-OEFEN	3	Sound	10	723890	0	2			0		other	0
+PPN19-1JUNI-OEFEN	5	Sound	6	747216	0	2			0		other	0
+PPN19-1JUNI-OEFEN	7	Sound	10	770615	0	2			0		other	0
+PPN19-1JUNI-OEFEN	9	Sound	10	794016	0	2			0		other	0
+PPN19-1JUNI-OEFEN	11	Sound	10	817416	0	2			0		other	0
+PPN19-1JUNI-OEFEN	13	Sound	10	840816	0	2			0		other	0
+PPN19-1JUNI-OEFEN	15	Sound	10	864215	0	2			0		other	0
+PPN19-1JUNI-OEFEN	17	Sound	10	887614	0	2			0		other	0
+PPN19-1JUNI-OEFEN	19	Sound	10	911014	0	2			0		other	0
+PPN19-1JUNI-OEFEN	21	Sound	10	934414	0	2			0		other	0
+PPN19-1JUNI-OEFEN	23	Sound	10	957813	0	2			0		other	0
+PPN19-1JUNI-OEFEN	25	Sound	10	981114	0	2			0		other	0
+PPN19-1JUNI-OEFEN	27	Sound	10	1004513	0	2			0		other	0
+PPN19-1JUNI-OEFEN	29	Sound	28	1027913	0	2			0		other	0
+PPN19-1JUNI-OEFEN	31	Sound	10	1051913	0	2			0		other	0
+PPN19-1JUNI-OEFEN	33	Sound	10	1075312	0	2			0		other	0
+PPN19-1JUNI-OEFEN	35	Sound	10	1098712	0	2			0		other	0
+PPN19-1JUNI-OEFEN	37	Sound	10	1122112	0	2			0		other	0
+PPN19-1JUNI-OEFEN	39	Sound	10	1145512	0	2			0		other	0
+PPN19-1JUNI-OEFEN	41	Sound	10	1168911	0	2			0		other	0
+PPN19-1JUNI-OEFEN	43	Sound	10	1192211	0	2			0		other	0
+PPN19-1JUNI-OEFEN	45	Sound	6	1215611	0	2			0		other	0
+PPN19-1JUNI-OEFEN	47	Sound	10	1239010	0	2			0		other	0
+PPN19-1JUNI-OEFEN	49	Sound	10	1262410	0	2			0		other	0
+PPN19-1JUNI-OEFEN	51	Sound	10	1285810	0	2			0		other	0
+PPN19-1JUNI-OEFEN	53	Sound	10	1309209	0	2			0		other	0
+PPN19-1JUNI-OEFEN	55	Sound	10	1332510	0	2			0		other	0
+PPN19-1JUNI-OEFEN	57	Sound	10	1355910	0	2			0		other	0
+PPN19-1JUNI-OEFEN	59	Sound	6	1379309	0	2			0		other	0
+PPN19-1JUNI-OEFEN	61	Sound	10	1402710	0	2			0		other	0
+PPN19-1JUNI-OEFEN	63	Sound	10	1426109	0	2			0		other	0
+PPN19-1JUNI-OEFEN	65	Sound	10	1449508	0	2			0		other	0
+PPN19-1JUNI-OEFEN	67	Sound	10	1472908	0	2			0		other	0
+PPN19-1JUNI-OEFEN	69	Sound	10	1496308	0	2			0		other	0
+PPN19-1JUNI-OEFEN	71	Sound	18	1519708	0	2			0		other	0
+PPN19-1JUNI-OEFEN	73	Sound	10	1543007	0	2			0		other	0
+PPN19-1JUNI-OEFEN	75	Sound	10	1566408	0	2			0		other	0
+PPN19-1JUNI-OEFEN	77	Sound	10	1589806	0	2			0		other	0
+PPN19-1JUNI-OEFEN	79	Sound	6	1613206	0	2			0		other	0
+PPN19-1JUNI-OEFEN	81	Sound	10	1636606	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				505490	2			0
+Sound	6	other				569650	2			0
+Sound	10	other				723890	2			0
+Sound	6	other				747216	2			0
+Sound	10	other				770615	2			0
+Sound	10	other				794016	2			0
+Sound	10	other				817416	2			0
+Sound	10	other				840816	2			0
+Sound	10	other				864215	2			0
+Sound	10	other				887614	2			0
+Sound	10	other				911014	2			0
+Sound	10	other				934414	2			0
+Sound	10	other				957813	2			0
+Sound	10	other				981114	2			0
+Sound	10	other				1004513	2			0
+Sound	28	other				1027913	2			0
+Sound	10	other				1051913	2			0
+Sound	10	other				1075312	2			0
+Sound	10	other				1098712	2			0
+Sound	10	other				1122112	2			0
+Sound	10	other				1145512	2			0
+Sound	10	other				1168911	2			0
+Sound	10	other				1192211	2			0
+Sound	6	other				1215611	2			0
+Sound	10	other				1239010	2			0
+Sound	10	other				1262410	2			0
+Sound	10	other				1285810	2			0
+Sound	10	other				1309209	2			0
+Sound	10	other				1332510	2			0
+Sound	10	other				1355910	2			0
+Sound	6	other				1379309	2			0
+Sound	10	other				1402710	2			0
+Sound	10	other				1426109	2			0
+Sound	10	other				1449508	2			0
+Sound	10	other				1472908	2			0
+Sound	10	other				1496308	2			0
+Sound	18	other				1519708	2			0
+Sound	10	other				1543007	2			0
+Sound	10	other				1566408	2			0
+Sound	10	other				1589806	2			0
+Sound	6	other				1613206	2			0
+Sound	10	other				1636606	2			0

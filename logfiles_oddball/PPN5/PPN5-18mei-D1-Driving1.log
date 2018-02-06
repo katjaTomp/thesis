@@ -1,0 +1,16 @@
+Scenario - oddball3
+Logfile written - 05/18/2016 12:28:29
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN5-18mei-D1	1	Sound	24	196037	0	2			0		other	0
+PPN5-18mei-D1	3	Sound	24	219342	0	2			0		other	0
+PPN5-18mei-D1	5	Sound	26	242741	0	2			0		other	0
+PPN5-18mei-D1	6	Quit		262404	16263
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				196037	2			0
+Sound	24	other				219342	2			0
+Sound	26	other				242741	2			0

@@ -1,0 +1,93 @@
+Scenario - oddball3
+Logfile written - 05/25/2016 09:31:56
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+PPN14-oefen-25mei	1	Sound	10	486040	0	2			0		other	0
+PPN14-oefen-25mei	2	Sound	6	552430	0	2			0		other	0
+PPN14-oefen-25mei	3	Sound	10	706799	0	2			0		other	0
+PPN14-oefen-25mei	5	Sound	6	730108	0	2			0		other	0
+PPN14-oefen-25mei	7	Sound	10	753507	0	2			0		other	0
+PPN14-oefen-25mei	9	Sound	10	776906	0	2			0		other	0
+PPN14-oefen-25mei	11	Sound	10	800306	0	2			0		other	0
+PPN14-oefen-25mei	13	Sound	10	823706	0	2			0		other	0
+PPN14-oefen-25mei	15	Sound	10	847106	0	2			0		other	0
+PPN14-oefen-25mei	17	Sound	10	870505	0	2			0		other	0
+PPN14-oefen-25mei	19	Sound	10	893905	0	2			0		other	0
+PPN14-oefen-25mei	21	Sound	10	917304	0	2			0		other	0
+PPN14-oefen-25mei	23	Sound	10	940704	0	2			0		other	0
+PPN14-oefen-25mei	25	Sound	10	964104	0	2			0		other	0
+PPN14-oefen-25mei	27	Sound	10	987504	0	2			0		other	0
+PPN14-oefen-25mei	29	Sound	28	1010903	0	2			0		other	0
+PPN14-oefen-25mei	31	Sound	10	1034903	0	2			0		other	0
+PPN14-oefen-25mei	33	Sound	10	1058303	0	2			0		other	0
+PPN14-oefen-25mei	35	Sound	10	1081703	0	2			0		other	0
+PPN14-oefen-25mei	37	Sound	10	1105102	0	2			0		other	0
+PPN14-oefen-25mei	39	Sound	10	1128502	0	2			0		other	0
+PPN14-oefen-25mei	41	Sound	10	1151902	0	2			0		other	0
+PPN14-oefen-25mei	43	Sound	10	1175301	0	2			0		other	0
+PPN14-oefen-25mei	45	Sound	6	1198701	0	2			0		other	0
+PPN14-oefen-25mei	47	Sound	10	1222101	0	2			0		other	0
+PPN14-oefen-25mei	49	Sound	10	1245500	0	2			0		other	0
+PPN14-oefen-25mei	51	Sound	10	1268900	0	2			0		other	0
+PPN14-oefen-25mei	53	Sound	10	1292299	0	2			0		other	0
+PPN14-oefen-25mei	55	Sound	10	1315699	0	2			0		other	0
+PPN14-oefen-25mei	57	Sound	10	1339099	0	2			0		other	0
+PPN14-oefen-25mei	59	Sound	6	1362498	0	2			0		other	0
+PPN14-oefen-25mei	61	Sound	10	1385898	0	2			0		other	0
+PPN14-oefen-25mei	63	Sound	10	1409298	0	2			0		other	0
+PPN14-oefen-25mei	65	Sound	10	1432697	0	2			0		other	0
+PPN14-oefen-25mei	67	Sound	10	1456097	0	2			0		other	0
+PPN14-oefen-25mei	69	Sound	10	1479496	0	2			0		other	0
+PPN14-oefen-25mei	71	Sound	18	1502897	0	2			0		other	0
+PPN14-oefen-25mei	73	Sound	10	1526197	0	2			0		other	0
+PPN14-oefen-25mei	75	Sound	10	1549596	0	2			0		other	0
+PPN14-oefen-25mei	77	Sound	10	1572995	0	2			0		other	0
+PPN14-oefen-25mei	79	Sound	6	1596395	0	2			0		other	0
+PPN14-oefen-25mei	81	Sound	10	1619795	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				486040	2			0
+Sound	6	other				552430	2			0
+Sound	10	other				706799	2			0
+Sound	6	other				730108	2			0
+Sound	10	other				753507	2			0
+Sound	10	other				776906	2			0
+Sound	10	other				800306	2			0
+Sound	10	other				823706	2			0
+Sound	10	other				847106	2			0
+Sound	10	other				870505	2			0
+Sound	10	other				893905	2			0
+Sound	10	other				917304	2			0
+Sound	10	other				940704	2			0
+Sound	10	other				964104	2			0
+Sound	10	other				987504	2			0
+Sound	28	other				1010903	2			0
+Sound	10	other				1034903	2			0
+Sound	10	other				1058303	2			0
+Sound	10	other				1081703	2			0
+Sound	10	other				1105102	2			0
+Sound	10	other				1128502	2			0
+Sound	10	other				1151902	2			0
+Sound	10	other				1175301	2			0
+Sound	6	other				1198701	2			0
+Sound	10	other				1222101	2			0
+Sound	10	other				1245500	2			0
+Sound	10	other				1268900	2			0
+Sound	10	other				1292299	2			0
+Sound	10	other				1315699	2			0
+Sound	10	other				1339099	2			0
+Sound	6	other				1362498	2			0
+Sound	10	other				1385898	2			0
+Sound	10	other				1409298	2			0
+Sound	10	other				1432697	2			0
+Sound	10	other				1456097	2			0
+Sound	10	other				1479496	2			0
+Sound	18	other				1502897	2			0
+Sound	10	other				1526197	2			0
+Sound	10	other				1549596	2			0
+Sound	10	other				1572995	2			0
+Sound	6	other				1596395	2			0
+Sound	10	other				1619795	2			0

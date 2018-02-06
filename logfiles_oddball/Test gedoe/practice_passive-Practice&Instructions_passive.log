@@ -1,0 +1,11 @@
+Scenario - oddball3
+Logfile written - 05/10/2016 13:50:59
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+practice_passive	1	Sound	10	482600	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				482600	2			0

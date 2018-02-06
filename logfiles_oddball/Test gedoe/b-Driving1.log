@@ -1,0 +1,15 @@
+Scenario - oddball3
+Logfile written - 05/03/2016 16:50:53
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+b	2	Response	1	177525	4525	1
+b	6	Response	1	228084	8285	1
+b	26	Response	1	467279	14885	2
+b	36	Response	1	581598	11506	1
+b	60	Response	1	854952	4365	1
+b	62	Quit		882232	8246
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+

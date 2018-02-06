@@ -1,0 +1,50 @@
+Scenario - oddball3
+Logfile written - 05/04/2016 17:14:12
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test104	1	Sound	14	185170	0	2			0		other	0
+test104	3	Sound	14	208503	0	2			0		other	0
+test104	5	Sound	14	231902	0	2			0		other	0
+test104	7	Sound	14	255302	0	2			0		other	0
+test104	9	Sound	18	278701	0	2			0		other	0
+test104	11	Sound	14	302601	0	2			0		other	0
+test104	13	Sound	16	326001	0	2			0		other	0
+test104	14	Response	1	342335	12934	1
+test104	15	Sound	14	349410	0	2			0		other	0
+test104	17	Sound	14	372800	0	2			0		other	0
+test104	19	Sound	14	396200	0	2			0		other	0
+test104	21	Sound	16	419600	0	2			0		other	0
+test104	22	Response	1	432814	9815	1
+test104	23	Sound	14	443008	0	2			0		other	0
+test104	25	Sound	14	466399	0	1			0		other	0
+test104	27	Sound	14	489799	0	2			0		other	0
+test104	29	Sound	14	513198	0	2			0		other	0
+test104	31	Sound	14	536598	0	2			0		other	0
+test104	33	Sound	18	559998	0	2			0		other	0
+test104	35	Sound	14	583297	0	2			0		other	0
+test104	37	Sound	14	606697	0	2			0		other	0
+test104	38	Quit		627771	17674
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	14	other				185170	2			0
+Sound	14	other				208503	2			0
+Sound	14	other				231902	2			0
+Sound	14	other				255302	2			0
+Sound	18	other				278701	2			0
+Sound	14	other				302601	2			0
+Sound	16	other				326001	2			0
+Sound	14	other				349410	2			0
+Sound	14	other				372800	2			0
+Sound	14	other				396200	2			0
+Sound	16	other				419600	2			0
+Sound	14	other				443008	2			0
+Sound	14	other				466399	1			0
+Sound	14	other				489799	2			0
+Sound	14	other				513198	2			0
+Sound	14	other				536598	2			0
+Sound	18	other				559998	2			0
+Sound	14	other				583297	2			0
+Sound	14	other				606697	2			0

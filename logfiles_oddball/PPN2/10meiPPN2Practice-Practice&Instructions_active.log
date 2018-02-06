@@ -1,0 +1,98 @@
+Scenario - oddball3
+Logfile written - 05/10/2016 18:20:10
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+10meiPPN2Practice	0	Response	1	370345	370345	1
+10meiPPN2Practice	1	Sound	10	505710	0	2			0		other	0
+10meiPPN2Practice	2	Sound	6	570010	0	2			0		other	0
+10meiPPN2Practice	3	Sound	10	724220	0	2			0		other	0
+10meiPPN2Practice	5	Sound	6	747550	0	2			0		other	0
+10meiPPN2Practice	6	Response	1	751562	612	2
+10meiPPN2Practice	7	Sound	10	770960	0	2			0		other	0
+10meiPPN2Practice	9	Sound	10	794349	0	2			0		other	0
+10meiPPN2Practice	11	Sound	10	817750	0	2			0		other	0
+10meiPPN2Practice	13	Sound	10	841149	0	2			0		other	0
+10meiPPN2Practice	15	Sound	10	864549	0	2			0		other	0
+10meiPPN2Practice	17	Sound	10	887948	0	2			0		other	0
+10meiPPN2Practice	19	Sound	10	911347	0	2			0		other	0
+10meiPPN2Practice	21	Sound	10	934747	0	2			0		other	0
+10meiPPN2Practice	23	Sound	10	958147	0	2			0		other	0
+10meiPPN2Practice	25	Sound	10	981547	0	2			0		other	0
+10meiPPN2Practice	27	Sound	10	1004946	0	2			0		other	0
+10meiPPN2Practice	29	Sound	28	1028345	0	2			0		other	0
+10meiPPN2Practice	31	Sound	10	1052346	0	2			0		other	0
+10meiPPN2Practice	33	Sound	10	1075745	0	2			0		other	0
+10meiPPN2Practice	35	Sound	10	1099144	0	2			0		other	0
+10meiPPN2Practice	37	Sound	10	1122544	0	2			0		other	0
+10meiPPN2Practice	39	Sound	10	1145943	0	2			0		other	0
+10meiPPN2Practice	41	Sound	10	1169244	0	2			0		other	0
+10meiPPN2Practice	43	Sound	10	1192643	0	2			0		other	0
+10meiPPN2Practice	45	Sound	6	1216044	0	2			0		other	0
+10meiPPN2Practice	46	Response	1	1221309	1866	1
+10meiPPN2Practice	47	Sound	10	1239453	0	3			0		other	0
+10meiPPN2Practice	49	Sound	10	1262842	0	2			0		other	0
+10meiPPN2Practice	51	Sound	10	1286241	0	2			0		other	0
+10meiPPN2Practice	53	Sound	10	1309641	0	2			0		other	0
+10meiPPN2Practice	55	Sound	10	1333042	0	2			0		other	0
+10meiPPN2Practice	57	Sound	10	1356441	0	2			0		other	0
+10meiPPN2Practice	59	Sound	6	1379841	0	2			0		other	0
+10meiPPN2Practice	60	Response	1	1384344	1103	2
+10meiPPN2Practice	61	Sound	10	1403251	0	2			0		other	0
+10meiPPN2Practice	63	Sound	10	1426639	0	2			0		other	0
+10meiPPN2Practice	65	Sound	10	1450039	0	2			0		other	0
+10meiPPN2Practice	67	Sound	10	1473439	0	2			0		other	0
+10meiPPN2Practice	69	Sound	10	1496839	0	2			0		other	0
+10meiPPN2Practice	71	Sound	18	1520239	0	2			0		other	0
+10meiPPN2Practice	73	Sound	10	1543537	0	2			0		other	0
+10meiPPN2Practice	75	Sound	10	1566838	0	2			0		other	0
+10meiPPN2Practice	77	Sound	10	1590238	0	2			0		other	0
+10meiPPN2Practice	79	Sound	6	1613637	0	2			0		other	0
+10meiPPN2Practice	80	Response	1	1617943	907	1
+10meiPPN2Practice	81	Sound	10	1637046	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				505710	2			0
+Sound	6	other				570010	2			0
+Sound	10	other				724220	2			0
+Sound	6	other				747550	2			0
+Sound	10	other				770960	2			0
+Sound	10	other				794349	2			0
+Sound	10	other				817750	2			0
+Sound	10	other				841149	2			0
+Sound	10	other				864549	2			0
+Sound	10	other				887948	2			0
+Sound	10	other				911347	2			0
+Sound	10	other				934747	2			0
+Sound	10	other				958147	2			0
+Sound	10	other				981547	2			0
+Sound	10	other				1004946	2			0
+Sound	28	other				1028345	2			0
+Sound	10	other				1052346	2			0
+Sound	10	other				1075745	2			0
+Sound	10	other				1099144	2			0
+Sound	10	other				1122544	2			0
+Sound	10	other				1145943	2			0
+Sound	10	other				1169244	2			0
+Sound	10	other				1192643	2			0
+Sound	6	other				1216044	2			0
+Sound	10	other				1239453	3			0
+Sound	10	other				1262842	2			0
+Sound	10	other				1286241	2			0
+Sound	10	other				1309641	2			0
+Sound	10	other				1333042	2			0
+Sound	10	other				1356441	2			0
+Sound	6	other				1379841	2			0
+Sound	10	other				1403251	2			0
+Sound	10	other				1426639	2			0
+Sound	10	other				1450039	2			0
+Sound	10	other				1473439	2			0
+Sound	10	other				1496839	2			0
+Sound	18	other				1520239	2			0
+Sound	10	other				1543537	2			0
+Sound	10	other				1566838	2			0
+Sound	10	other				1590238	2			0
+Sound	6	other				1613637	2			0
+Sound	10	other				1637046	2			0

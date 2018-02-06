@@ -1,0 +1,62 @@
+Scenario - oddball3
+Logfile written - 05/10/2016 13:47:03
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+try_passive_practice	1	Sound	10	482860	0	2			0		other	0
+try_passive_practice	2	Sound	6	547090	0	2			0		other	0
+try_passive_practice	3	Sound	10	701263	0	2			0		other	0
+try_passive_practice	5	Sound	6	724594	0	2			0		other	0
+try_passive_practice	7	Sound	10	747993	0	2			0		other	0
+try_passive_practice	9	Sound	10	771392	0	2			0		other	0
+try_passive_practice	11	Sound	10	794792	0	2			0		other	0
+try_passive_practice	13	Sound	10	818190	0	2			0		other	0
+try_passive_practice	15	Sound	10	841491	0	2			0		other	0
+try_passive_practice	17	Sound	10	864891	0	2			0		other	0
+try_passive_practice	19	Sound	10	888290	0	2			0		other	0
+try_passive_practice	21	Sound	10	911690	0	2			0		other	0
+try_passive_practice	23	Sound	10	935088	0	2			0		other	0
+try_passive_practice	25	Sound	10	958488	0	2			0		other	0
+try_passive_practice	27	Sound	10	981887	0	2			0		other	0
+try_passive_practice	29	Sound	28	1005287	0	2			0		other	0
+try_passive_practice	31	Sound	10	1029287	0	2			0		other	0
+try_passive_practice	33	Sound	10	1052686	0	2			0		other	0
+try_passive_practice	35	Sound	10	1076086	0	2			0		other	0
+try_passive_practice	37	Sound	10	1099485	0	2			0		other	0
+try_passive_practice	39	Sound	10	1122884	0	2			0		other	0
+try_passive_practice	41	Sound	10	1146284	0	2			0		other	0
+try_passive_practice	43	Sound	10	1169683	0	2			0		other	0
+try_passive_practice	45	Sound	6	1193083	0	2			0		other	0
+try_passive_practice	47	Sound	10	1216482	0	2			0		other	0
+try_passive_practice	49	Sound	10	1239882	0	2			0		other	0
+try_passive_practice	50	Quit		1262951	19670
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	10	other				482860	2			0
+Sound	6	other				547090	2			0
+Sound	10	other				701263	2			0
+Sound	6	other				724594	2			0
+Sound	10	other				747993	2			0
+Sound	10	other				771392	2			0
+Sound	10	other				794792	2			0
+Sound	10	other				818190	2			0
+Sound	10	other				841491	2			0
+Sound	10	other				864891	2			0
+Sound	10	other				888290	2			0
+Sound	10	other				911690	2			0
+Sound	10	other				935088	2			0
+Sound	10	other				958488	2			0
+Sound	10	other				981887	2			0
+Sound	28	other				1005287	2			0
+Sound	10	other				1029287	2			0
+Sound	10	other				1052686	2			0
+Sound	10	other				1076086	2			0
+Sound	10	other				1099485	2			0
+Sound	10	other				1122884	2			0
+Sound	10	other				1146284	2			0
+Sound	10	other				1169683	2			0
+Sound	6	other				1193083	2			0
+Sound	10	other				1216482	2			0
+Sound	10	other				1239882	2			0

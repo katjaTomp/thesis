@@ -1,0 +1,281 @@
+Scenario - oddball3
+Logfile written - 05/25/2016 09:01:12
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+testsdfdriving	1	Sound	24	174088	0	2			0		other	0
+testsdfdriving	3	Sound	24	197480	0	2			0		other	0
+testsdfdriving	5	Sound	26	220781	0	2			0		other	0
+testsdfdriving	6	Response	1	233991	9811	22
+testsdfdriving	7	Sound	24	244189	0	2			0		other	0
+testsdfdriving	9	Sound	28	267580	0	2			0		other	0
+testsdfdriving	11	Sound	24	291280	0	2			0		other	0
+testsdfdriving	13	Sound	24	314679	0	2			0		other	0
+testsdfdriving	15	Sound	24	338078	0	2			0		other	0
+testsdfdriving	17	Sound	24	361478	0	2			0		other	0
+testsdfdriving	19	Sound	24	384878	0	2			0		other	0
+testsdfdriving	21	Sound	24	408278	0	2			0		other	0
+testsdfdriving	23	Sound	28	431677	0	2			0		other	0
+testsdfdriving	25	Sound	24	453377	0	2			0		other	0
+testsdfdriving	27	Sound	28	476777	0	2			0		other	0
+testsdfdriving	29	Sound	24	500877	0	2			0		other	0
+testsdfdriving	31	Sound	24	524276	0	2			0		other	0
+testsdfdriving	33	Sound	24	547675	0	2			0		other	0
+testsdfdriving	35	Sound	26	570976	0	2			0		other	0
+testsdfdriving	35	Response	1	574363	3387	1
+testsdfdriving	37	Sound	24	594384	0	2			0		other	0
+testsdfdriving	39	Sound	24	617775	0	2			0		other	0
+testsdfdriving	41	Sound	24	641174	0	2			0		other	0
+testsdfdriving	43	Sound	28	664575	0	2			0		other	0
+testsdfdriving	45	Sound	24	687673	0	2			0		other	0
+testsdfdriving	47	Sound	24	711073	0	2			0		other	0
+testsdfdriving	49	Sound	24	734474	0	2			0		other	0
+testsdfdriving	51	Sound	24	757873	0	2			0		other	0
+testsdfdriving	53	Sound	24	781272	0	2			0		other	0
+testsdfdriving	55	Sound	24	804673	0	2			0		other	0
+testsdfdriving	57	Sound	24	828072	0	2			0		other	0
+testsdfdriving	59	Sound	26	851472	0	2			0		other	0
+testsdfdriving	60	Response	1	856771	1900	1
+testsdfdriving	61	Sound	24	874880	0	2			0		other	0
+testsdfdriving	63	Sound	24	898271	0	2			0		other	0
+testsdfdriving	65	Sound	24	921671	0	2			0		other	0
+testsdfdriving	67	Sound	24	945071	0	2			0		other	0
+testsdfdriving	69	Sound	24	968470	0	2			0		other	0
+testsdfdriving	71	Sound	26	991870	0	2			0		other	0
+testsdfdriving	72	Response	1	998001	2731	1
+testsdfdriving	73	Sound	24	1015279	0	2			0		other	0
+testsdfdriving	75	Sound	28	1038669	0	2			0		other	0
+testsdfdriving	77	Sound	24	1061168	0	2			0		other	0
+testsdfdriving	79	Sound	24	1084569	0	2			0		other	0
+testsdfdriving	81	Sound	24	1107969	0	2			0		other	0
+testsdfdriving	83	Sound	28	1131368	0	2			0		other	0
+testsdfdriving	85	Sound	24	1155468	0	2			0		other	0
+testsdfdriving	87	Sound	24	1178867	0	2			0		other	0
+testsdfdriving	89	Sound	24	1202267	0	2			0		other	0
+testsdfdriving	91	Sound	28	1225666	0	2			0		other	0
+testsdfdriving	93	Sound	24	1249566	0	2			0		other	0
+testsdfdriving	95	Sound	24	1272966	0	2			0		other	0
+testsdfdriving	97	Sound	24	1296366	0	2			0		other	0
+testsdfdriving	99	Sound	26	1319766	0	2			0		other	0
+testsdfdriving	100	Response	1	1323843	678	1
+testsdfdriving	101	Sound	24	1343174	0	1			0		other	0
+testsdfdriving	103	Sound	26	1366565	0	2			0		other	0
+testsdfdriving	104	Response	1	1371547	1583	1
+testsdfdriving	105	Sound	24	1389974	0	2			0		other	0
+testsdfdriving	107	Sound	24	1413364	0	2			0		other	0
+testsdfdriving	109	Sound	24	1436764	0	2			0		other	0
+testsdfdriving	111	Sound	24	1460164	0	2			0		other	0
+testsdfdriving	113	Sound	24	1483563	0	2			0		other	0
+testsdfdriving	115	Sound	24	1506963	0	2			0		other	0
+testsdfdriving	117	Sound	24	1530362	0	2			0		other	0
+testsdfdriving	119	Sound	24	1553762	0	2			0		other	0
+testsdfdriving	121	Sound	24	1577161	0	2			0		other	0
+testsdfdriving	123	Sound	24	1600561	0	2			0		other	0
+testsdfdriving	125	Sound	24	1623962	0	2			0		other	0
+testsdfdriving	127	Sound	26	1647360	0	2			0		other	0
+testsdfdriving	128	Response	1	1653889	3229	1
+testsdfdriving	129	Sound	24	1670669	0	1			0		other	0
+testsdfdriving	131	Sound	28	1694060	0	2			0		other	0
+testsdfdriving	133	Sound	24	1717759	0	2			0		other	0
+testsdfdriving	135	Sound	24	1741159	0	2			0		other	0
+testsdfdriving	137	Sound	24	1764559	0	2			0		other	0
+testsdfdriving	139	Sound	26	1787959	0	2			0		other	0
+testsdfdriving	140	Response	1	1792216	857	1
+testsdfdriving	141	Sound	24	1811368	0	1			0		other	0
+testsdfdriving	143	Sound	24	1834759	0	2			0		other	0
+testsdfdriving	145	Sound	24	1858158	0	2			0		other	0
+testsdfdriving	147	Sound	24	1881557	0	2			0		other	0
+testsdfdriving	149	Sound	24	1904957	0	2			0		other	0
+testsdfdriving	151	Sound	28	1928356	0	2			0		other	0
+testsdfdriving	153	Sound	24	1951356	0	2			0		other	0
+testsdfdriving	155	Sound	26	1974757	0	2			0		other	0
+testsdfdriving	156	Response	1	1980574	2418	1
+testsdfdriving	157	Sound	24	1998165	0	2			0		other	0
+testsdfdriving	159	Sound	24	2021555	0	2			0		other	0
+testsdfdriving	161	Sound	24	2044955	0	2			0		other	0
+testsdfdriving	162	Response	1	2052077	3723	1
+testsdfdriving	163	Sound	24	2068363	0	2			0		other	0
+testsdfdriving	165	Sound	24	2091755	0	2			0		other	0
+testsdfdriving	167	Sound	24	2115154	0	2			0		other	0
+testsdfdriving	169	Sound	24	2138554	0	2			0		other	0
+testsdfdriving	171	Sound	24	2161954	0	2			0		other	0
+testsdfdriving	173	Sound	24	2185353	0	2			0		other	0
+testsdfdriving	175	Sound	24	2208753	0	2			0		other	0
+testsdfdriving	177	Sound	24	2232152	0	2			0		other	0
+testsdfdriving	179	Sound	26	2255552	0	2			0		other	0
+testsdfdriving	180	Response	1	2259666	714	1
+testsdfdriving	181	Sound	24	2278961	0	2			0		other	0
+testsdfdriving	183	Sound	26	2302351	0	2			0		other	0
+testsdfdriving	184	Response	1	2309488	3737	1
+testsdfdriving	185	Sound	24	2325760	0	2			0		other	0
+testsdfdriving	187	Sound	28	2349151	0	2			0		other	0
+testsdfdriving	189	Sound	24	2372251	0	2			0		other	0
+testsdfdriving	191	Sound	24	2395650	0	2			0		other	0
+testsdfdriving	193	Sound	24	2419049	0	2			0		other	0
+testsdfdriving	195	Sound	24	2442449	0	2			0		other	0
+testsdfdriving	197	Sound	24	2465849	0	2			0		other	0
+testsdfdriving	199	Sound	28	2489249	0	2			0		other	0
+testsdfdriving	201	Sound	24	2513249	0	2			0		other	0
+testsdfdriving	203	Sound	24	2536648	0	2			0		other	0
+testsdfdriving	205	Sound	24	2560049	0	2			0		other	0
+testsdfdriving	207	Sound	24	2583448	0	2			0		other	0
+testsdfdriving	209	Sound	24	2606846	0	2			0		other	0
+testsdfdriving	211	Sound	24	2630247	0	2			0		other	0
+testsdfdriving	213	Sound	24	2653646	0	2			0		other	0
+testsdfdriving	215	Sound	24	2677047	0	2			0		other	0
+testsdfdriving	217	Sound	24	2700446	0	2			0		other	0
+testsdfdriving	219	Sound	24	2723846	0	2			0		other	0
+testsdfdriving	221	Sound	24	2747246	0	2			0		other	0
+testsdfdriving	223	Sound	28	2770645	0	2			0		other	0
+testsdfdriving	225	Sound	24	2794145	0	2			0		other	0
+testsdfdriving	227	Sound	24	2817544	0	2			0		other	0
+testsdfdriving	229	Sound	24	2840944	0	2			0		other	0
+testsdfdriving	231	Sound	26	2864344	0	2			0		other	0
+testsdfdriving	232	Response	1	2877454	9711	1
+testsdfdriving	233	Sound	24	2887752	0	3			0		other	0
+testsdfdriving	235	Sound	28	2911144	0	2			0		other	0
+testsdfdriving	237	Sound	24	2935142	0	2			0		other	0
+testsdfdriving	239	Sound	26	2958542	0	2			0		other	0
+testsdfdriving	240	Response	1	2964835	2893	1
+testsdfdriving	241	Sound	24	2981953	0	2			0		other	0
+testsdfdriving	243	Sound	24	3005342	0	2			0		other	0
+testsdfdriving	245	Sound	24	3028742	0	2			0		other	0
+testsdfdriving	247	Sound	24	3052141	0	2			0		other	0
+testsdfdriving	249	Sound	24	3075541	0	2			0		other	0
+testsdfdriving	251	Sound	24	3098941	0	2			0		other	0
+testsdfdriving	253	Sound	24	3122340	0	2			0		other	0
+testsdfdriving	255	Sound	24	3145739	0	2			0		other	0
+testsdfdriving	257	Sound	24	3169139	0	2			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				174088	2			0
+Sound	24	other				197480	2			0
+Sound	26	other				220781	2			0
+Sound	24	other				244189	2			0
+Sound	28	other				267580	2			0
+Sound	24	other				291280	2			0
+Sound	24	other				314679	2			0
+Sound	24	other				338078	2			0
+Sound	24	other				361478	2			0
+Sound	24	other				384878	2			0
+Sound	24	other				408278	2			0
+Sound	28	other				431677	2			0
+Sound	24	other				453377	2			0
+Sound	28	other				476777	2			0
+Sound	24	other				500877	2			0
+Sound	24	other				524276	2			0
+Sound	24	other				547675	2			0
+Sound	26	other				570976	2			0
+Sound	24	other				594384	2			0
+Sound	24	other				617775	2			0
+Sound	24	other				641174	2			0
+Sound	28	other				664575	2			0
+Sound	24	other				687673	2			0
+Sound	24	other				711073	2			0
+Sound	24	other				734474	2			0
+Sound	24	other				757873	2			0
+Sound	24	other				781272	2			0
+Sound	24	other				804673	2			0
+Sound	24	other				828072	2			0
+Sound	26	other				851472	2			0
+Sound	24	other				874880	2			0
+Sound	24	other				898271	2			0
+Sound	24	other				921671	2			0
+Sound	24	other				945071	2			0
+Sound	24	other				968470	2			0
+Sound	26	other				991870	2			0
+Sound	24	other				1015279	2			0
+Sound	28	other				1038669	2			0
+Sound	24	other				1061168	2			0
+Sound	24	other				1084569	2			0
+Sound	24	other				1107969	2			0
+Sound	28	other				1131368	2			0
+Sound	24	other				1155468	2			0
+Sound	24	other				1178867	2			0
+Sound	24	other				1202267	2			0
+Sound	28	other				1225666	2			0
+Sound	24	other				1249566	2			0
+Sound	24	other				1272966	2			0
+Sound	24	other				1296366	2			0
+Sound	26	other				1319766	2			0
+Sound	24	other				1343174	1			0
+Sound	26	other				1366565	2			0
+Sound	24	other				1389974	2			0
+Sound	24	other				1413364	2			0
+Sound	24	other				1436764	2			0
+Sound	24	other				1460164	2			0
+Sound	24	other				1483563	2			0
+Sound	24	other				1506963	2			0
+Sound	24	other				1530362	2			0
+Sound	24	other				1553762	2			0
+Sound	24	other				1577161	2			0
+Sound	24	other				1600561	2			0
+Sound	24	other				1623962	2			0
+Sound	26	other				1647360	2			0
+Sound	24	other				1670669	1			0
+Sound	28	other				1694060	2			0
+Sound	24	other				1717759	2			0
+Sound	24	other				1741159	2			0
+Sound	24	other				1764559	2			0
+Sound	26	other				1787959	2			0
+Sound	24	other				1811368	1			0
+Sound	24	other				1834759	2			0
+Sound	24	other				1858158	2			0
+Sound	24	other				1881557	2			0
+Sound	24	other				1904957	2			0
+Sound	28	other				1928356	2			0
+Sound	24	other				1951356	2			0
+Sound	26	other				1974757	2			0
+Sound	24	other				1998165	2			0
+Sound	24	other				2021555	2			0
+Sound	24	other				2044955	2			0
+Sound	24	other				2068363	2			0
+Sound	24	other				2091755	2			0
+Sound	24	other				2115154	2			0
+Sound	24	other				2138554	2			0
+Sound	24	other				2161954	2			0
+Sound	24	other				2185353	2			0
+Sound	24	other				2208753	2			0
+Sound	24	other				2232152	2			0
+Sound	26	other				2255552	2			0
+Sound	24	other				2278961	2			0
+Sound	26	other				2302351	2			0
+Sound	24	other				2325760	2			0
+Sound	28	other				2349151	2			0
+Sound	24	other				2372251	2			0
+Sound	24	other				2395650	2			0
+Sound	24	other				2419049	2			0
+Sound	24	other				2442449	2			0
+Sound	24	other				2465849	2			0
+Sound	28	other				2489249	2			0
+Sound	24	other				2513249	2			0
+Sound	24	other				2536648	2			0
+Sound	24	other				2560049	2			0
+Sound	24	other				2583448	2			0
+Sound	24	other				2606846	2			0
+Sound	24	other				2630247	2			0
+Sound	24	other				2653646	2			0
+Sound	24	other				2677047	2			0
+Sound	24	other				2700446	2			0
+Sound	24	other				2723846	2			0
+Sound	24	other				2747246	2			0
+Sound	28	other				2770645	2			0
+Sound	24	other				2794145	2			0
+Sound	24	other				2817544	2			0
+Sound	24	other				2840944	2			0
+Sound	26	other				2864344	2			0
+Sound	24	other				2887752	3			0
+Sound	28	other				2911144	2			0
+Sound	24	other				2935142	2			0
+Sound	26	other				2958542	2			0
+Sound	24	other				2981953	2			0
+Sound	24	other				3005342	2			0
+Sound	24	other				3028742	2			0
+Sound	24	other				3052141	2			0
+Sound	24	other				3075541	2			0
+Sound	24	other				3098941	2			0
+Sound	24	other				3122340	2			0
+Sound	24	other				3145739	2			0
+Sound	24	other				3169139	2			0

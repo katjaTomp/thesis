@@ -1,0 +1,18 @@
+Scenario - oddball3
+Logfile written - 05/09/2016 16:36:33
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+testmultiplescenariosrun2	1	Sound	24	170020	0	2			0		other	0
+testmultiplescenariosrun2	3	Sound	24	193332	0	2			0		other	0
+testmultiplescenariosrun2	5	Sound	26	216733	0	2			0		other	0
+testmultiplescenariosrun2	7	Sound	24	240131	0	2			0		other	0
+testmultiplescenariosrun2	8	Quit		493056	249525
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	24	other				170020	2			0
+Sound	24	other				193332	2			0
+Sound	26	other				216733	2			0
+Sound	24	other				240131	2			0
