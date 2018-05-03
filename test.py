@@ -162,9 +162,12 @@ def downsampleEpochs(freq, epochs):
 
     return epochs_resampled
 
+def downsampleEpochs_decimate(freq,epochs):
+    return epochs.decimate(freq)
+
 
 # Data pre-processing
-filenames = ['ppn12_23mei.bdf','PPN13_24MEI.bdf']
+filenames = ['PPN1_10mei.bdf']
 #filenames = ['PPN2_10mei.bdf','PPN3_12mei.bdf','ppn4_18mei.bdf','ppn5_18mei.bdf','PPN6_19mei.bdf','PPN7_19mei.bdf','PPN9-20mei.bdf','PPN10-20mei.bdf','PPN11_20mei.bdf','PPN2_10mei.bdf','PPN3_12mei.bdf','ppn4_18mei.bdf','ppn5_18mei.bdf','PPN6_19mei.bdf','PPN7_19mei.bdf']
 i = 12
 for filename in filenames:
@@ -187,17 +190,27 @@ for filename in filenames:
 
 #### Epoching ####
     events = findEvents(raw)
-    epochs = genEpochs(raw, events, picks)
+    print("events:",len(events))
 
-    epochs = baseline(epochs,
+    epochs_1 = genEpochs(raw, events, picks)
+    print("epochs:",len(epochs_1))
+
+    epochs = baseline(epochs_1,
                   0.1)  # The data were baseline corrected over the 100 ms interval preceding the stimulus presentation.
 
-   # print(epochs.plot(picks=picks, block=True))
+    print(epochs_1.plot(picks=picks, block=True))
     print("downsampling epochs")
 
-    epochs = downsampleEpochs(200, epochs)
+    epochs = downsampleEpochs(200, epochs_1)
+    print("epochs after downsampling:", epochs)
 
 
+    epochs.plot(picks,block=True)
+
+    epochs_decimate = downsampleEpochs_decimate(200,epochs_1)
+
+    print("decimated")
+    epochs_decimate.plot(picks,block=True)
 
 
     data = epochs.get_data()
@@ -212,7 +225,7 @@ for filename in filenames:
     index = ['epoch','time']  # 1, dict(grad=1e13)
 
     df = epochs.to_data_frame(picks=None, scalings=None, index=index)
-    df.to_pickle(str(i)+'-downsampledikk.pkl')
+    #df.to_pickle(str(i)+'-downsampledikk.pkl')
     i+=1
 
     print(df.dtypes)

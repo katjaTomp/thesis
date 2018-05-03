@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from hmmlearn.hmm import GaussianHMM,GMMHMM
 
+from xlrd import open_workbook
+
 # Omit warnings
 
 import sys
@@ -82,8 +84,8 @@ def loadData(t, condition):
         lengths = [len(frontal_1),len(frontal_2), len(frontal_3), len(frontal_4), len(frontal_5), len(frontal_6), len(frontal_7),
           len(frontal_9), len(frontal_10), len(frontal_11),len(frontal_12), len(frontal_13)]
 
-        return [frontal_final, lengths]
-        #return [frontal_1, len(frontal_1)]
+        #return [frontal_final, lengths]
+        return [frontal_1, len(frontal_1)]
 
     elif condition == 'active':
         if t == False :
@@ -174,36 +176,30 @@ def trainModelGMM(X, lengths, states, num_gaus):
 
 def saveModel(model):
      from sklearn.externals import joblib
-     joblib.dump(model, "model.pkl")
+     joblib.dump(model, "model_9_200.pkl")
 
 
 
 data = loadData(False, "both")
-#print (data[0])
+
 frontal_final = data[0]
 lengths = data[1]
-#print('length',sum(lengths))
 
-import math
-
-mean = np.mean(frontal_final)
-std = np.std(frontal_final)
 ## Train models
-#print(mean,std)
-model = trainModel(frontal_final, lengths, 6)
-saveModel(model)
+#model = trainModel(frontal_final, lengths, 9)
+#saveModel(model)
 
-
-#for i in range(2, 12):
-#    print(" The model was trained using ", i, "states")
-#    trainModel(frontal_final, lengths, i)
 
 
 #trainModelGMM(frontal_final,lengths,3,3)
 from sklearn.externals import joblib
 from hmmlearn.hmm import GaussianHMM
+import pickle
 
-model = joblib.load( "model.pkl")
+model = joblib.load( "model_6_200.pkl")
+events = pickle.load(open("ppn13_events","r"))
+print (events)
+
 
 #print(model.score(frontal_final,lengths))
 predictions = model.predict(frontal_final)
@@ -212,10 +208,24 @@ means = model.means_
 pi = model.startprob_
 B = model.predict_proba(frontal_final)
 covars = model.covars_
-print (A, means, pi, covars,B)
+#print (A, means, pi, covars,B)
+print (covars)
+state_0 = 5
+states_change = []
+states_change.append(state_0)
+
+for prediction in predictions:
+    if prediction != state_0:
+     #print prediction
+     state_0 = prediction
+     states_change.append(state_0)
+
+pickle.dump(predictions, open('states_all.pkl','w'))
 
 
 
+#print(events)
+#print(predictions)
 ### Plot the results
 import matplotlib
 matplotlib.use('TkAgg')
@@ -224,19 +234,83 @@ from matplotlib import cm, pyplot as plt
 
 
 X = frontal_final
-
 Y = predictions
+print (len(Y))
+down_x = []
+down_time = []
 j = 0
-print j
+#print j
 timepoint = 0
+event_0 = ['65304']
+#print event_0
+for state, event in zip(Y,events):
 
-for i in Y:
-
-    if i != j:
-        print timepoint ,":",i
-        j=i
+    if event_0 != event:
+        if event == ['65294']:
+#            print event,":",state
+            down_x.append(state)
+            down_time.append(timepoint)
+        #j=state
+        event_0 = event
     timepoint +=1
 
-plt.eventplot(Y)
+plt.plot(down_x)
 plt.show()
 
+
+## number of states per event
+
+event_codes = ['65304','65306','65308','65281','65294','65298','65296','65284','65286','65288']
+
+
+def getFrequencies(event_1):
+    zeros = 0
+    ones = 0
+    twos = 0
+    threes = 0
+    fours = 0
+    fives = 0
+
+    for state,event in zip(Y,events):
+        if event == event_1:
+            if state == 0:
+                zeros +=1
+            elif state == 1:
+                ones +=1
+            elif state == 2:
+                twos +=1
+            elif state == 3:
+                threes +=1
+            elif state == 4:
+                fours +=1
+            else:
+                fives +=1
+
+
+ #   print ('event:',event_1)
+ #   print (zeros, ones, twos, threes, fours, fives)
+
+
+for ev in event_codes:
+    getFrequencies(ev)
+
+event_0 = 0
+state_0 = 0
+states = []
+states_seq = []
+i = 0
+for event, state in zip(events,predictions):
+    if event_0 == event:
+        if state_0 != state:
+            states.append(state)
+            state_0 = state
+    else :
+        seq  = -1
+        for st in states:
+            seq =str(seq) + ',' +str(st)
+        event_0 = event
+       # print seq
+        states=[]
+
+        i +=1
+#print (states_seq)
